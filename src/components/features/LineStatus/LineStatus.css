@@ -1,6 +1,7 @@
 /* Line Status */
 .status-container {
   min-width: 800px;
+  max-width: 800px;
   border-top: solid 2px #808080;
   padding: 1em;
 }
