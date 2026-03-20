@@ -1,14 +1,42 @@
-import HomeGrid from "../components/layout/HomeGrid/HomeGrid"
+import HomeGrid from "../components/layout/HomeGrid/HomeGrid";
+import { Link } from 'react-router-dom';
 
 function Home() {
-  return (
-    <>
-      <div className="welcome-message">
-          <h2>Welcome Train Simmers!</h2>
-      </div>
-      <HomeGrid />
-    </>
-  );
+    return (
+        <div className="flex flex-col">
+            {/* ── Hero ─────────────────────────────────────────────── */}
+            <section className="bg-gray-900 dark:bg-gray-950">
+                <div className="max-w-4xl mx-auto px-6 py-16 sm:py-22 flex flex-col items-center text-center gap-5">
+                    <div className="flex items-center gap-2 text-rail-amber">
+                        <span className="font-rail font-bold tracking-widest uppercase text-xs text-white/40">
+                            Train Simulator Classic
+                        </span>
+                    </div>
+                    <h1 className="font-rail font-bold text-white tracking-tight text-5xl sm:text-6xl leading-tight">
+                        Scenario Helper
+                    </h1>
+                    <p className="text-white/50 text-lg max-w-lg leading-relaxed">
+                        Destination codes, headcode generation, and live network status.
+                        Everything you need to build authentic UK rail scenarios.
+                    </p>
+                    <Link
+                        to="/about"
+                        className="inline-flex items-center justify-center font-rail font-bold tracking-rail uppercase text-sm text-rail-amber border border-rail-amber rounded-rail px-3 py-1.5 hover:bg-rail-amber hover:text-rail-navy transition-colors mb-3"
+                    >
+                        About This Site
+                    </Link>
+                </div>
+            </section>
+
+            {/* ── Feature grid ─────────────────────────────────────── */}
+            <section className="flex-1 w-full mx-auto px-6 py-12">
+                <p className="font-rail font-bold tracking-widest uppercase text-xs text-gray-400 dark:text-gray-500 mb-8 text-center">
+                    Tools &amp; Features
+                </p>
+                <HomeGrid />
+            </section>
+        </div>
+    );
 }
 
 export default Home;

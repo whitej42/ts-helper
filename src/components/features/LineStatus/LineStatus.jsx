@@ -1,11 +1,16 @@
 import { useState, useEffect } from 'react';
 import { FaChevronDown, FaChevronUp } from "react-icons/fa";
 import './LineStatus.css';
+import overgroundRoundel from '../../../assets/images/overground_roundel.svg';
+
+const OVERGROUND_SLUGS = new Set(['lioness', 'liberty', 'mildmay', 'suffragette', 'weaver', 'windrush']);
 
 function LineStatus({ lineName, statusSeverity, statusUpdate }) {
 
     // Set css classes
-    const nameClasses = `line-name ${lineName.toLowerCase().split(' & ').join(' ').split(' ').join('-')}`;
+    const slug = lineName.toLowerCase().split(' & ').join(' ').split(' ').join('-');
+    const nameClasses = `line-name ${slug}`;
+    const isOverground = OVERGROUND_SLUGS.has(slug);
     const statusClasses = `line-status ${statusSeverity.toLowerCase().split(' ').join('-')}`;
 
     // Toggle show updates button
@@ -38,6 +43,9 @@ function LineStatus({ lineName, statusSeverity, statusUpdate }) {
             <div className='status'>
                 <div className={nameClasses}>
                     <label>{lineName}</label>
+                    {isOverground && (
+                        <img src={overgroundRoundel} alt="" aria-hidden="true" style={{ width: '18px', height: '18px', display: 'inline-block', marginLeft: '6px', verticalAlign: 'middle' }} />
+                    )}
                 </div>
                 <div className={statusClasses}>
                     <label>{statusSeverity}</label>

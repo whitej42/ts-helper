@@ -1,0 +1,491 @@
+{
+  "dlcPacks": [
+    {
+      "key": "ti_class170",
+      "name": "Class 170 Turbostar",
+      "publisher": "Thomson Interactive",
+      "trainVariants": [
+        {
+          "class": null,
+          "operatorKey": "multiple",
+          "displays": [
+            {
+              "code": "a",
+              "main": "Class 170 Turbostar",
+              "additional": null
+            },
+            {
+              "code": "b",
+              "main": "Not in Service",
+              "additional": null
+            },
+            {
+              "code": "c",
+              "main": "Liverpool Lime Street",
+              "additional": null
+            },
+            {
+              "code": "d",
+              "main": "Manchester Piccadilly",
+              "additional": null
+            },
+            {
+              "code": "e",
+              "main": "Nottingham",
+              "additional": null
+            },
+            {
+              "code": "f",
+              "main": "Crewe",
+              "additional": null
+            },
+            {
+              "code": "g",
+              "main": "Birmingham New Street",
+              "additional": null
+            },
+            {
+              "code": "h",
+              "main": "Birmingham Snow Hill",
+              "additional": null
+            },
+            {
+              "code": "i",
+              "main": "Stafford",
+              "additional": null
+            },
+            {
+              "code": "j",
+              "main": "Wolverhampton",
+              "additional": null
+            },
+            {
+              "code": "k",
+              "main": "Peterborough",
+              "additional": null
+            },
+            {
+              "code": "l",
+              "main": "Norwich",
+              "additional": null
+            },
+            {
+              "code": "m",
+              "main": "Stansted Airport",
+              "additional": null
+            },
+            {
+              "code": "n",
+              "main": "Leicester",
+              "additional": null
+            },
+            {
+              "code": "o",
+              "main": "Cardiff",
+              "additional": null
+            },
+            {
+              "code": "p",
+              "main": "Cheltenham Spa",
+              "additional": null
+            },
+            {
+              "code": "q",
+              "main": "London Waterloo",
+              "additional": null
+            },
+            {
+              "code": "r",
+              "main": "Reading",
+              "additional": null
+            },
+            {
+              "code": "s",
+              "main": "Weymouth",
+              "additional": null
+            },
+            {
+              "code": "t",
+              "main": "Portsmouth and Southsea",
+              "additional": null
+            },
+            {
+              "code": "u",
+              "main": "Portsmouth Harbour",
+              "additional": null
+            },
+            {
+              "code": "v",
+              "main": "Brighton",
+              "additional": null
+            },
+            {
+              "code": "w",
+              "main": "Dorking",
+              "additional": null
+            },
+            {
+              "code": "x",
+              "main": "Basingstoke",
+              "additional": null
+            },
+            {
+              "code": "y",
+              "main": "Southampton Central",
+              "additional": null
+            },
+            {
+              "code": "z",
+              "main": "Salisbury",
+              "additional": null
+            },
+            {
+              "code": "A",
+              "main": "Exeter Central",
+              "additional": null
+            },
+            {
+              "code": "B",
+              "main": "Bristol Temple Meads",
+              "additional": null
+            },
+            {
+              "code": "C",
+              "main": "Bournemouth",
+              "additional": null
+            },
+            {
+              "code": "D",
+              "main": "Guildford",
+              "additional": null
+            },
+            {
+              "code": "E",
+              "main": "Woking",
+              "additional": null
+            },
+            {
+              "code": "F",
+              "main": "Ashford International",
+              "additional": null
+            },
+            {
+              "code": "G",
+              "main": "Bury St Edmunds",
+              "additional": null
+            },
+            {
+              "code": "H",
+              "main": "Cambridge",
+              "additional": null
+            },
+            {
+              "code": "I",
+              "main": "Derby",
+              "additional": null
+            },
+            {
+              "code": "J",
+              "main": "Hastings",
+              "additional": null
+            },
+            {
+              "code": "K",
+              "main": "Hull",
+              "additional": null
+            },
+            {
+              "code": "L",
+              "main": "Ipswich",
+              "additional": null
+            },
+            {
+              "code": "M",
+              "main": "Lincoln Central",
+              "additional": null
+            },
+            {
+              "code": "N",
+              "main": "London Kings Cross",
+              "additional": null
+            },
+            {
+              "code": "O",
+              "main": "Lowestoft",
+              "additional": null
+            },
+            {
+              "code": "P",
+              "main": "London Marylebone",
+              "additional": null
+            },
+            {
+              "code": "Q",
+              "main": "Matlock",
+              "additional": null
+            },
+            {
+              "code": "R",
+              "main": "Scarborough",
+              "additional": null
+            },
+            {
+              "code": "S",
+              "main": "London St Pancras",
+              "additional": null
+            },
+            {
+              "code": "T",
+              "main": "Stratford",
+              "additional": null
+            },
+            {
+              "code": "U",
+              "main": "Uckfield",
+              "additional": null
+            },
+            {
+              "code": "V",
+              "main": "Worcester",
+              "additional": null
+            },
+            {
+              "code": "W",
+              "main": "Worksop",
+              "additional": null
+            },
+            {
+              "code": "X",
+              "main": "York",
+              "additional": null
+            },
+            {
+              "code": "Y",
+              "main": "London Bridge",
+              "additional": null
+            },
+            {
+              "code": "Z",
+              "main": "Special",
+              "additional": null
+            }
+          ],
+          "livery": "London Midland / XC / Central Trains / Southern"
+        },
+        {
+          "class": null,
+          "operatorKey": "scr",
+          "displays": [
+            {
+              "code": "a",
+              "main": "Class 170 Turbostar",
+              "additional": null
+            },
+            {
+              "code": "b",
+              "main": "Not in Service",
+              "additional": null
+            },
+            {
+              "code": "c",
+              "main": "Glasgow Queen Street",
+              "additional": null
+            },
+            {
+              "code": "d",
+              "main": "Glasgow Queen Street via Falkirk High",
+              "additional": null
+            },
+            {
+              "code": "e",
+              "main": "Glasgow Queen Street via Falkirk Grahamston",
+              "additional": null
+            },
+            {
+              "code": "f",
+              "main": "Edinburgh Waverley",
+              "additional": null
+            },
+            {
+              "code": "g",
+              "main": "Edinburgh Waverley via Falkirk High",
+              "additional": null
+            },
+            {
+              "code": "h",
+              "main": "Edinburgh Waverley via Falkirk Grahamston",
+              "additional": null
+            },
+            {
+              "code": "i",
+              "main": "Falkirk Grahamston",
+              "additional": null
+            },
+            {
+              "code": "j",
+              "main": "Edinburgh Haymarket",
+              "additional": null
+            },
+            {
+              "code": "k",
+              "main": "Dalmeny",
+              "additional": null
+            },
+            {
+              "code": "l",
+              "main": "Larbert",
+              "additional": null
+            },
+            {
+              "code": "m",
+              "main": "Stirling",
+              "additional": null
+            },
+            {
+              "code": "n",
+              "main": "Dunblane",
+              "additional": null
+            },
+            {
+              "code": "o",
+              "main": "Alloa",
+              "additional": null
+            },
+            {
+              "code": "p",
+              "main": "Aberdeen",
+              "additional": null
+            },
+            {
+              "code": "q",
+              "main": "Dundee",
+              "additional": null
+            },
+            {
+              "code": "r",
+              "main": "Perth",
+              "additional": null
+            },
+            {
+              "code": "s",
+              "main": "Inverness",
+              "additional": null
+            },
+            {
+              "code": "t",
+              "main": "Inverness via Dundee",
+              "additional": null
+            },
+            {
+              "code": "u",
+              "main": "Inverness via Perth",
+              "additional": null
+            },
+            {
+              "code": "v",
+              "main": "North Berwick",
+              "additional": null
+            },
+            {
+              "code": "w",
+              "main": "Bathgate",
+              "additional": null
+            },
+            {
+              "code": "x",
+              "main": "Dunfermline Town",
+              "additional": null
+            },
+            {
+              "code": "y",
+              "main": "Glasgow Central",
+              "additional": null
+            },
+            {
+              "code": "z",
+              "main": "Paisley Gilmour St.",
+              "additional": null
+            },
+            {
+              "code": "A",
+              "main": "Glasgow Int Airport via Paisley Gilmour Street",
+              "additional": null
+            },
+            {
+              "code": "B",
+              "main": "Oban",
+              "additional": null
+            },
+            {
+              "code": "C",
+              "main": "Fort William",
+              "additional": null
+            },
+            {
+              "code": "D",
+              "main": "Mallaig via Fort William",
+              "additional": null
+            },
+            {
+              "code": "E",
+              "main": "Kyle of Lochalsh",
+              "additional": null
+            },
+            {
+              "code": "F",
+              "main": "Wick and Thurso",
+              "additional": null
+            },
+            {
+              "code": "G",
+              "main": "Whifflet",
+              "additional": null
+            },
+            {
+              "code": "H",
+              "main": "Paisley Canal",
+              "additional": null
+            },
+            {
+              "code": "I",
+              "main": "Kirkcaldy",
+              "additional": null
+            },
+            {
+              "code": "J",
+              "main": "Kilmarnock",
+              "additional": null
+            },
+            {
+              "code": "K",
+              "main": "Cumbernauld",
+              "additional": null
+            },
+            {
+              "code": "L",
+              "main": "Anniesland",
+              "additional": null
+            },
+            {
+              "code": "M",
+              "main": "Stranraer",
+              "additional": null
+            },
+            {
+              "code": "N",
+              "main": "Special",
+              "additional": null
+            },
+            {
+              "code": "O",
+              "main": "Thomson Interactive",
+              "additional": null
+            }
+          ],
+          "livery": "ScotRail"
+        }
+      ],
+      "traction": "Diesel"
+    }
+  ]
+}

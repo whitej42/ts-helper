@@ -1,0 +1,4437 @@
+{
+  "dlcPacks": [
+    {
+      "key": "dtg_class801",
+      "name": "Class 801",
+      "publisher": "Dovetail",
+      "trainVariants": [
+        {
+          "class": null,
+          "operatorKey": "White",
+          "livery": "White",
+          "displays": [
+            {
+              "code": "A",
+              "main": "Hitachi Class 801",
+              "additional": null
+            },
+            {
+              "code": "B",
+              "main": "Bristol Temple Meads",
+              "additional": null
+            },
+            {
+              "code": "C",
+              "main": "Cardiff Central",
+              "additional": null
+            },
+            {
+              "code": "D",
+              "main": "Doncaster",
+              "additional": null
+            },
+            {
+              "code": "E",
+              "main": "Edinburgh",
+              "additional": null
+            },
+            {
+              "code": "F",
+              "main": "Newark North Gate",
+              "additional": null
+            },
+            {
+              "code": "G",
+              "main": "Grantham",
+              "additional": null
+            },
+            {
+              "code": "H",
+              "main": "Bristol Parkway",
+              "additional": null
+            },
+            {
+              "code": "I",
+              "main": "Darlington",
+              "additional": null
+            },
+            {
+              "code": "J",
+              "main": "Didcot Parkway",
+              "additional": null
+            },
+            {
+              "code": "K",
+              "main": "London Kings Cross",
+              "additional": null
+            },
+            {
+              "code": "L",
+              "main": "London Paddington",
+              "additional": null
+            },
+            {
+              "code": "M",
+              "main": "Leeds",
+              "additional": null
+            },
+            {
+              "code": "N",
+              "main": "Newcastle Central",
+              "additional": null
+            },
+            {
+              "code": "O",
+              "main": "Oxford",
+              "additional": null
+            },
+            {
+              "code": "P",
+              "main": "Peterborough",
+              "additional": null
+            },
+            {
+              "code": "Q",
+              "main": "Bath Spa",
+              "additional": null
+            },
+            {
+              "code": "R",
+              "main": "Reading",
+              "additional": null
+            },
+            {
+              "code": "S",
+              "main": "Steventage",
+              "additional": null
+            },
+            {
+              "code": "T",
+              "main": "Swansea",
+              "additional": null
+            },
+            {
+              "code": "U",
+              "main": "Swindon",
+              "additional": null
+            },
+            {
+              "code": "V",
+              "main": "Sorry Not in Service",
+              "additional": null
+            },
+            {
+              "code": "W",
+              "main": "Wakefield",
+              "additional": null
+            },
+            {
+              "code": "X",
+              "main": "Empty to Depot",
+              "additional": null
+            },
+            {
+              "code": "Y",
+              "main": "York",
+              "additional": null
+            },
+            {
+              "code": "Z",
+              "main": "Special",
+              "additional": null
+            }
+          ]
+        }
+      ],
+      "traction": "Electric"
+    },
+    {
+      "key": "dtg_class377",
+      "name": "Electrostars - Class 375/377/378",
+      "publisher": "Dovetail",
+      "trainVariants": [
+        {
+          "class": "375",
+          "operatorKey": "se",
+          "displays": [
+            {
+              "code": "a",
+              "main": "London Victoria via Maidstone East",
+              "additional": null
+            },
+            {
+              "code": "b",
+              "main": "London Victoria via Bromley South",
+              "additional": null
+            },
+            {
+              "code": "c",
+              "main": "Cannon Street",
+              "additional": null
+            },
+            {
+              "code": "d",
+              "main": "Charing Cross",
+              "additional": null
+            },
+            {
+              "code": "e",
+              "main": "Ashford International",
+              "additional": null
+            },
+            {
+              "code": "f",
+              "main": "Canterbury East via Chatham",
+              "additional": null
+            },
+            {
+              "code": "g",
+              "main": "Canterbury West",
+              "additional": null
+            },
+            {
+              "code": "h",
+              "main": "Dartford",
+              "additional": null
+            },
+            {
+              "code": "i",
+              "main": "Dover Priory via Chatham",
+              "additional": null
+            },
+            {
+              "code": "j",
+              "main": "Faversham",
+              "additional": null
+            },
+            {
+              "code": "k",
+              "main": "Folkstone Central",
+              "additional": null
+            },
+            {
+              "code": "l",
+              "main": "Gillingham",
+              "additional": null
+            },
+            {
+              "code": "m",
+              "main": "Hastings",
+              "additional": null
+            },
+            {
+              "code": "n",
+              "main": "London Bridge",
+              "additional": null
+            },
+            {
+              "code": "o",
+              "main": "Margate",
+              "additional": null
+            },
+            {
+              "code": "p",
+              "main": "Orpington via Herne Hill & Bromley South",
+              "additional": null
+            },
+            {
+              "code": "q",
+              "main": "Paddock Wood",
+              "additional": null
+            },
+            {
+              "code": "r",
+              "main": "Ramsgate via Chatham",
+              "additional": null
+            },
+            {
+              "code": "s",
+              "main": "Rochester",
+              "additional": null
+            },
+            {
+              "code": "t",
+              "main": "Sevenoaks",
+              "additional": null
+            },
+            {
+              "code": "u",
+              "main": "Sheerness on Sea",
+              "additional": null
+            },
+            {
+              "code": "v",
+              "main": "Sittingbourne",
+              "additional": null
+            },
+            {
+              "code": "w",
+              "main": "Strood",
+              "additional": null
+            },
+            {
+              "code": "x",
+              "main": "Tonbridge",
+              "additional": null
+            },
+            {
+              "code": "y",
+              "main": "Ramsgate and Dover Priory. Train divides at Faversham",
+              "additional": null
+            },
+            {
+              "code": "z",
+              "main": "Sorry. This train is not in use",
+              "additional": null
+            },
+            {
+              "code": "A",
+              "main": "Ramsgate and Dover Priory. Train divides at Ashford International",
+              "additional": null
+            },
+            {
+              "code": "B",
+              "main": "Ashford International via Maidstone East",
+              "additional": null
+            },
+            {
+              "code": "C",
+              "main": "Barnehurst",
+              "additional": null
+            },
+            {
+              "code": "D",
+              "main": "Beckenham Junction",
+              "additional": null
+            },
+            {
+              "code": "E",
+              "main": "Bromley South",
+              "additional": null
+            },
+            {
+              "code": "F",
+              "main": "Dover Priory via Tonbridge",
+              "additional": null
+            },
+            {
+              "code": "G",
+              "main": "Gravesend",
+              "additional": null
+            },
+            {
+              "code": "H",
+              "main": "Hayes",
+              "additional": null
+            },
+            {
+              "code": "I",
+              "main": "Hither Green",
+              "additional": null
+            },
+            {
+              "code": "J",
+              "main": "Lewisham",
+              "additional": null
+            },
+            {
+              "code": "K",
+              "main": "London Blackfriars",
+              "additional": null
+            },
+            {
+              "code": "L",
+              "main": "Maidstone East",
+              "additional": null
+            },
+            {
+              "code": "M",
+              "main": "Meophan",
+              "additional": null
+            },
+            {
+              "code": "N",
+              "main": "Ore",
+              "additional": null
+            },
+            {
+              "code": "O",
+              "main": "Ramsgate via Tonbridge",
+              "additional": null
+            },
+            {
+              "code": "P",
+              "main": "Rainham",
+              "additional": null
+            },
+            {
+              "code": "Q",
+              "main": "Shephards Well",
+              "additional": null
+            },
+            {
+              "code": "R",
+              "main": "Slade Green",
+              "additional": null
+            },
+            {
+              "code": "S",
+              "main": "Tunbridge Wells",
+              "additional": null
+            },
+            {
+              "code": "T",
+              "main": "Death Star via Tatooine",
+              "additional": null
+            },
+            {
+              "code": "U",
+              "main": "USS Enterprise NCC-1701",
+              "additional": null
+            },
+            {
+              "code": "V",
+              "main": "USS Defiant NX-74205",
+              "additional": null
+            },
+            {
+              "code": "W",
+              "main": "Maidstone West",
+              "additional": null
+            },
+            {
+              "code": "X",
+              "main": "Depot. Not in Service",
+              "additional": null
+            },
+            {
+              "code": "Y",
+              "main": "Special Service. Ticket Holders Only",
+              "additional": null
+            }
+          ],
+          "livery": "Southeastern"
+        },
+        {
+          "class": "377",
+          "operatorKey": "sn",
+          "displays": [
+            {
+              "code": "a",
+              "main": "Brighton",
+              "additional": null
+            },
+            {
+              "code": "b",
+              "main": "Bognor",
+              "additional": null
+            },
+            {
+              "code": "c",
+              "main": "Caterham",
+              "additional": null
+            },
+            {
+              "code": "d",
+              "main": "Clapham Junction",
+              "additional": null
+            },
+            {
+              "code": "e",
+              "main": "Coulsdon Town",
+              "additional": null
+            },
+            {
+              "code": "f",
+              "main": "Eastbourne",
+              "additional": null
+            },
+            {
+              "code": "g",
+              "main": "East Croydon",
+              "additional": null
+            },
+            {
+              "code": "h",
+              "main": "Gatwick Airport",
+              "additional": null
+            },
+            {
+              "code": "i",
+              "main": "Guildford",
+              "additional": null
+            },
+            {
+              "code": "j",
+              "main": "Hastings",
+              "additional": null
+            },
+            {
+              "code": "k",
+              "main": "Haywards Heath",
+              "additional": null
+            },
+            {
+              "code": "l",
+              "main": "Horsham",
+              "additional": null
+            },
+            {
+              "code": "m",
+              "main": "Hove",
+              "additional": null
+            },
+            {
+              "code": "n",
+              "main": "Littlehampton",
+              "additional": null
+            },
+            {
+              "code": "o",
+              "main": "Victoria",
+              "additional": null
+            },
+            {
+              "code": "p",
+              "main": "London Bridge",
+              "additional": null
+            },
+            {
+              "code": "q",
+              "main": "Portsmouth",
+              "additional": null
+            },
+            {
+              "code": "r",
+              "main": "Redhill",
+              "additional": null
+            },
+            {
+              "code": "s",
+              "main": "Reigate",
+              "additional": null
+            },
+            {
+              "code": "t",
+              "main": "Southampton",
+              "additional": null
+            },
+            {
+              "code": "u",
+              "main": "South Croydon",
+              "additional": null
+            },
+            {
+              "code": "v",
+              "main": "Tattenham Corner",
+              "additional": null
+            },
+            {
+              "code": "w",
+              "main": "Tonbridge",
+              "additional": null
+            },
+            {
+              "code": "x",
+              "main": "West Croydon",
+              "additional": null
+            },
+            {
+              "code": "y",
+              "main": "Not in Service",
+              "additional": null
+            },
+            {
+              "code": "z",
+              "main": "Special",
+              "additional": null
+            },
+            {
+              "code": "A",
+              "main": "Barnham",
+              "additional": null
+            },
+            {
+              "code": "B",
+              "main": "Caterham via Norbury",
+              "additional": null
+            },
+            {
+              "code": "C",
+              "main": "Dorking",
+              "additional": null
+            },
+            {
+              "code": "D",
+              "main": "East Grinstead",
+              "additional": null
+            },
+            {
+              "code": "E",
+              "main": "Eastbourne & Littlehampton",
+              "additional": null
+            },
+            {
+              "code": "F",
+              "main": "Epsom",
+              "additional": null
+            },
+            {
+              "code": "G",
+              "main": "Lewes",
+              "additional": null
+            },
+            {
+              "code": "H",
+              "main": "Littlehampton & Ore",
+              "additional": null
+            },
+            {
+              "code": "I",
+              "main": "Milton Keynes Central",
+              "additional": null
+            },
+            {
+              "code": "J",
+              "main": "Ore",
+              "additional": null
+            },
+            {
+              "code": "K",
+              "main": "Portsmouth & Bognor",
+              "additional": null
+            },
+            {
+              "code": "L",
+              "main": "Portsmouth & Bognor, divides at Horsham",
+              "additional": null
+            },
+            {
+              "code": "M",
+              "main": "Portsmouth Harbour",
+              "additional": null
+            },
+            {
+              "code": "N",
+              "main": "Seaford",
+              "additional": null
+            },
+            {
+              "code": "O",
+              "main": "Southampton & Bognor",
+              "additional": null
+            },
+            {
+              "code": "P",
+              "main": "Southampton & Bognor, divides at Horsham",
+              "additional": null
+            },
+            {
+              "code": "Q",
+              "main": "Sutton via Cystral Palace",
+              "additional": null
+            },
+            {
+              "code": "R",
+              "main": "Sutton via Norbury",
+              "additional": null
+            },
+            {
+              "code": "S",
+              "main": "Tattenham Corner",
+              "additional": null
+            },
+            {
+              "code": "T",
+              "main": "West Worthing",
+              "additional": null
+            },
+            {
+              "code": "U",
+              "main": "Ashford International",
+              "additional": null
+            },
+            {
+              "code": "V",
+              "main": "Canterbury West",
+              "additional": null
+            },
+            {
+              "code": "W",
+              "main": "Maidstone West",
+              "additional": null
+            },
+            {
+              "code": "X",
+              "main": "Depot",
+              "additional": null
+            },
+            {
+              "code": "Y",
+              "main": "Blackfriars",
+              "additional": null
+            },
+            {
+              "code": "Z",
+              "main": "Rainham",
+              "additional": null
+            }
+          ],
+          "livery": "Southern"
+        },
+        {
+          "class": "377",
+          "operatorKey": "fcc",
+          "displays": [
+            {
+              "code": "a",
+              "main": "Ashford International",
+              "additional": null
+            },
+            {
+              "code": "b",
+              "main": "Bedford via Elephant & Castle",
+              "additional": null
+            },
+            {
+              "code": "c",
+              "main": "Bedford via London Bridge",
+              "additional": null
+            },
+            {
+              "code": "d",
+              "main": "Blackfriars",
+              "additional": null
+            },
+            {
+              "code": "e",
+              "main": "Brighton",
+              "additional": null
+            },
+            {
+              "code": "f",
+              "main": "Brighton via Elephant & Castle",
+              "additional": null
+            },
+            {
+              "code": "g",
+              "main": "Brighton via London Bridge",
+              "additional": null
+            },
+            {
+              "code": "h",
+              "main": "City Thameslink",
+              "additional": null
+            },
+            {
+              "code": "i",
+              "main": "East Croydon",
+              "additional": null
+            },
+            {
+              "code": "j",
+              "main": "East Croydon via Elephant & Castle",
+              "additional": null
+            },
+            {
+              "code": "k",
+              "main": "East Croydon via London Bridge",
+              "additional": null
+            },
+            {
+              "code": "l",
+              "main": "Farringdon",
+              "additional": null
+            },
+            {
+              "code": "m",
+              "main": "Gatwick Airport",
+              "additional": null
+            },
+            {
+              "code": "n",
+              "main": "Haywards Heath",
+              "additional": null
+            },
+            {
+              "code": "o",
+              "main": "Kentish Town",
+              "additional": null
+            },
+            {
+              "code": "p",
+              "main": "London Bridge",
+              "additional": null
+            },
+            {
+              "code": "q",
+              "main": "London Victoria",
+              "additional": null
+            },
+            {
+              "code": "r",
+              "main": "Luton Airport Parkway",
+              "additional": null
+            },
+            {
+              "code": "s",
+              "main": "Luton via Elephant & Castle",
+              "additional": null
+            },
+            {
+              "code": "t",
+              "main": "Luton via London Bridge",
+              "additional": null
+            },
+            {
+              "code": "u",
+              "main": "Rochester",
+              "additional": null
+            },
+            {
+              "code": "v",
+              "main": "St Albans City",
+              "additional": null
+            },
+            {
+              "code": "w",
+              "main": "St Pancras International",
+              "additional": null
+            },
+            {
+              "code": "x",
+              "main": "Three Bridges",
+              "additional": null
+            },
+            {
+              "code": "y",
+              "main": "West Hampstead Thameslink",
+              "additional": null
+            },
+            {
+              "code": "z",
+              "main": "Not in service. Sorry, please stand clear",
+              "additional": null
+            }
+          ],
+          "livery": "First Capital Connect"
+        },
+        {
+          "class": "378",
+          "operatorKey": "lo",
+          "displays": [
+            {
+              "code": "a",
+              "main": "Barking",
+              "additional": null
+            },
+            {
+              "code": "b",
+              "main": "Battersea Park",
+              "additional": null
+            },
+            {
+              "code": "c",
+              "main": "Cannonbury",
+              "additional": null
+            },
+            {
+              "code": "d",
+              "main": "Clapham Junction",
+              "additional": null
+            },
+            {
+              "code": "e",
+              "main": "Crystal Palace",
+              "additional": null
+            },
+            {
+              "code": "f",
+              "main": "Dalston",
+              "additional": null
+            },
+            {
+              "code": "g",
+              "main": "Gospel Oak",
+              "additional": null
+            },
+            {
+              "code": "h",
+              "main": "Highbury & Islington",
+              "additional": null
+            },
+            {
+              "code": "i",
+              "main": "Euston",
+              "additional": null
+            },
+            {
+              "code": "j",
+              "main": "New Cross",
+              "additional": null
+            },
+            {
+              "code": "k",
+              "main": "New Cross Gate",
+              "additional": null
+            },
+            {
+              "code": "l",
+              "main": "Richmond",
+              "additional": null
+            },
+            {
+              "code": "m",
+              "main": "Stratford",
+              "additional": null
+            },
+            {
+              "code": "n",
+              "main": "Surrey Quays",
+              "additional": null
+            },
+            {
+              "code": "o",
+              "main": "Watford Junction",
+              "additional": null
+            },
+            {
+              "code": "p",
+              "main": "West Croydon",
+              "additional": null
+            },
+            {
+              "code": "q",
+              "main": "Willesden Junction",
+              "additional": null
+            },
+            {
+              "code": "r",
+              "main": "Liverpool Street",
+              "additional": null
+            },
+            {
+              "code": "s",
+              "main": "Chingford",
+              "additional": null
+            },
+            {
+              "code": "t",
+              "main": "Romford",
+              "additional": null
+            },
+            {
+              "code": "u",
+              "main": "Upminster",
+              "additional": null
+            },
+            {
+              "code": "v",
+              "main": "Cheshunt",
+              "additional": null
+            },
+            {
+              "code": "w",
+              "main": "Seven Sisters",
+              "additional": null
+            },
+            {
+              "code": "x",
+              "main": "Walthamstow Central",
+              "additional": null
+            },
+            {
+              "code": "y",
+              "main": "Not in Service",
+              "additional": null
+            },
+            {
+              "code": "z",
+              "main": "Class 378 Capitalstar",
+              "additional": null
+            }
+          ],
+          "livery": "London Overground"
+        }
+      ],
+      "traction": "Electric"
+    },
+    {
+      "key": "dtg_class350",
+      "name": "Desiros - Class 350/360/450/444",
+      "publisher": "Dovetail",
+      "trainVariants": [
+        {
+          "class": "350",
+          "operatorKey": "lm",
+          "displays": [
+            {
+              "code": "01",
+              "main": "Bedford",
+              "additional": null
+            },
+            {
+              "code": "02",
+              "main": "Birmingham Moor Street",
+              "additional": null
+            },
+            {
+              "code": "03",
+              "main": "Birmingham New Street",
+              "additional": null
+            },
+            {
+              "code": "04",
+              "main": "Snow Hill",
+              "additional": null
+            },
+            {
+              "code": "05",
+              "main": "Coventry",
+              "additional": null
+            },
+            {
+              "code": "06",
+              "main": "Cradley Heath",
+              "additional": null
+            },
+            {
+              "code": "07",
+              "main": "Crewe",
+              "additional": null
+            },
+            {
+              "code": "08",
+              "main": "Depot",
+              "additional": null
+            },
+            {
+              "code": "09",
+              "main": "Hereford",
+              "additional": null
+            },
+            {
+              "code": "10",
+              "main": "Kidderminster",
+              "additional": null
+            },
+            {
+              "code": "11",
+              "main": "Leamington Spa",
+              "additional": null
+            },
+            {
+              "code": "12",
+              "main": "Ledbury",
+              "additional": null
+            },
+            {
+              "code": "13",
+              "main": "Lichfield Trent Valley",
+              "additional": null
+            },
+            {
+              "code": "14",
+              "main": "Liverpool Lime Street",
+              "additional": null
+            },
+            {
+              "code": "15",
+              "main": "London Euston",
+              "additional": null
+            },
+            {
+              "code": "16",
+              "main": "Lye",
+              "additional": null
+            },
+            {
+              "code": "17",
+              "main": "Milton Keynes Central",
+              "additional": null
+            },
+            {
+              "code": "18",
+              "main": "Northampton",
+              "additional": null
+            },
+            {
+              "code": "19",
+              "main": "Not in Service",
+              "additional": null
+            },
+            {
+              "code": "20",
+              "main": "Nuneaton",
+              "additional": null
+            },
+            {
+              "code": "21",
+              "main": "Redditch",
+              "additional": null
+            },
+            {
+              "code": "22",
+              "main": "Rugby",
+              "additional": null
+            },
+            {
+              "code": "23",
+              "main": "Rugeley Trent Valley",
+              "additional": null
+            },
+            {
+              "code": "24",
+              "main": "Shrewsbury",
+              "additional": null
+            },
+            {
+              "code": "25",
+              "main": "Special",
+              "additional": null
+            },
+            {
+              "code": "26",
+              "main": "Stafford",
+              "additional": null
+            },
+            {
+              "code": "27",
+              "main": "Stoke-on-Trent",
+              "additional": null
+            },
+            {
+              "code": "28",
+              "main": "Stourbridge",
+              "additional": null
+            },
+            {
+              "code": "29",
+              "main": "Stratford-upon-Avon",
+              "additional": null
+            },
+            {
+              "code": "30",
+              "main": "Walsall",
+              "additional": null
+            },
+            {
+              "code": "31",
+              "main": "Watford Junction",
+              "additional": null
+            },
+            {
+              "code": "32",
+              "main": "Wolverhampton",
+              "additional": null
+            },
+            {
+              "code": "33",
+              "main": "Worcester Foregate",
+              "additional": null
+            },
+            {
+              "code": "34",
+              "main": "Worcester Shrub Hill",
+              "additional": null
+            },
+            {
+              "code": "35",
+              "main": "Tring",
+              "additional": null
+            },
+            {
+              "code": "36",
+              "main": "Birmingham International",
+              "additional": null
+            },
+            {
+              "code": "37",
+              "main": "St Albans Abbey",
+              "additional": null
+            },
+            {
+              "code": "38",
+              "main": "Bletchley",
+              "additional": null
+            },
+            {
+              "code": "39",
+              "main": "Dorridge",
+              "additional": null
+            },
+            {
+              "code": "40",
+              "main": "Whitlocks End",
+              "additional": null
+            }
+          ],
+          "livery": "London Midland"
+        },
+        {
+          "class": "360",
+          "operatorKey": "ga",
+          "displays": [
+            {
+              "code": "A",
+              "main": "Shenfield",
+              "additional": null
+            },
+            {
+              "code": "B",
+              "main": "Braintree",
+              "additional": null
+            },
+            {
+              "code": "C",
+              "main": "Colchester",
+              "additional": null
+            },
+            {
+              "code": "D",
+              "main": "Colchester Tn",
+              "additional": null
+            },
+            {
+              "code": "E",
+              "main": "Empty to Depot",
+              "additional": null
+            },
+            {
+              "code": "F",
+              "main": "Chelmsford",
+              "additional": null
+            },
+            {
+              "code": "G",
+              "main": "Greater Anglia",
+              "additional": null
+            },
+            {
+              "code": "H",
+              "main": "Harwich Town",
+              "additional": null
+            },
+            {
+              "code": "I",
+              "main": "Ipswich",
+              "additional": null
+            },
+            {
+              "code": "J",
+              "main": "Heathrow Airport",
+              "additional": null
+            },
+            {
+              "code": "K",
+              "main": "Stansted Airport",
+              "additional": null
+            },
+            {
+              "code": "L",
+              "main": "London Liv St",
+              "additional": null
+            },
+            {
+              "code": "M",
+              "main": "Manningtree",
+              "additional": null
+            },
+            {
+              "code": "N",
+              "main": "Norwich",
+              "additional": null
+            },
+            {
+              "code": "O",
+              "main": "Cambridge",
+              "additional": null
+            },
+            {
+              "code": "P",
+              "main": "London Paddington",
+              "additional": null
+            },
+            {
+              "code": "Q",
+              "main": "Clacton",
+              "additional": null
+            },
+            {
+              "code": "R",
+              "main": "Romford",
+              "additional": null
+            },
+            {
+              "code": "S",
+              "main": "Southminster",
+              "additional": null
+            },
+            {
+              "code": "T",
+              "main": "Marks Tey",
+              "additional": null
+            },
+            {
+              "code": "U",
+              "main": "Upminster",
+              "additional": null
+            },
+            {
+              "code": "V",
+              "main": "Southend Victoria",
+              "additional": null
+            },
+            {
+              "code": "W",
+              "main": "Walton-on-the-Naze",
+              "additional": null
+            },
+            {
+              "code": "X",
+              "main": "Not in Service",
+              "additional": null
+            },
+            {
+              "code": "Y",
+              "main": "Ilford",
+              "additional": null
+            },
+            {
+              "code": "Z",
+              "main": "Special",
+              "additional": null
+            }
+          ],
+          "livery": "Great Eastern Mainline"
+        },
+        {
+          "class": "450",
+          "operatorKey": "swt",
+          "displays": [
+            {
+              "code": "01",
+              "main": "Aldershot",
+              "additional": null
+            },
+            {
+              "code": "02",
+              "main": "Alton",
+              "additional": null
+            },
+            {
+              "code": "03",
+              "main": "Ascot",
+              "additional": null
+            },
+            {
+              "code": "04",
+              "main": "Ascot via Aldershot",
+              "additional": null
+            },
+            {
+              "code": "05",
+              "main": "Basingstoke",
+              "additional": null
+            },
+            {
+              "code": "06",
+              "main": "Basingstoke Stopping Service",
+              "additional": null
+            },
+            {
+              "code": "07",
+              "main": "Bournemouth",
+              "additional": null
+            },
+            {
+              "code": "08",
+              "main": "Bournemouth Fast Service",
+              "additional": null
+            },
+            {
+              "code": "09",
+              "main": "Bournemouth Stopping Service",
+              "additional": null
+            },
+            {
+              "code": "10",
+              "main": "Branksome",
+              "additional": null
+            },
+            {
+              "code": "11",
+              "main": "Brighton",
+              "additional": null
+            },
+            {
+              "code": "12",
+              "main": "Brockenhurst",
+              "additional": null
+            },
+            {
+              "code": "13",
+              "main": "Clapham Junction",
+              "additional": null
+            },
+            {
+              "code": "14",
+              "main": "Dorking",
+              "additional": null
+            },
+            {
+              "code": "15",
+              "main": "Eastleigh",
+              "additional": null
+            },
+            {
+              "code": "16",
+              "main": "Fareham",
+              "additional": null
+            },
+            {
+              "code": "17",
+              "main": "Farnborough",
+              "additional": null
+            },
+            {
+              "code": "18",
+              "main": "Farnham",
+              "additional": null
+            },
+            {
+              "code": "19",
+              "main": "Fratton",
+              "additional": null
+            },
+            {
+              "code": "20",
+              "main": "Fratton Stopping Service",
+              "additional": null
+            },
+            {
+              "code": "21",
+              "main": "Guildford",
+              "additional": null
+            },
+            {
+              "code": "22",
+              "main": "Guildford via Aldershot",
+              "additional": null
+            },
+            {
+              "code": "23",
+              "main": "Haslemere",
+              "additional": null
+            },
+            {
+              "code": "24",
+              "main": "Havant",
+              "additional": null
+            },
+            {
+              "code": "25",
+              "main": "Hounslow via Brentford",
+              "additional": null
+            },
+            {
+              "code": "26",
+              "main": "Hounslow via Richmond",
+              "additional": null
+            },
+            {
+              "code": "27",
+              "main": "London Waterloo",
+              "additional": null
+            },
+            {
+              "code": "28",
+              "main": "London Waterloo Fast Service",
+              "additional": null
+            },
+            {
+              "code": "29",
+              "main": "London Waterloo Stopping Service",
+              "additional": null
+            },
+            {
+              "code": "30",
+              "main": "London Waterloo via Basingstoke",
+              "additional": null
+            },
+            {
+              "code": "31",
+              "main": "London Waterloo via Brentford",
+              "additional": null
+            },
+            {
+              "code": "32",
+              "main": "London Waterloo via Hounslow",
+              "additional": null
+            },
+            {
+              "code": "33",
+              "main": "London Waterloo via Richmond",
+              "additional": null
+            },
+            {
+              "code": "34",
+              "main": "London Waterloo via Surbiton",
+              "additional": null
+            },
+            {
+              "code": "35",
+              "main": "London Waterloo via Winchester",
+              "additional": null
+            },
+            {
+              "code": "36",
+              "main": "Lymington Pier",
+              "additional": null
+            },
+            {
+              "code": "37",
+              "main": "Poole",
+              "additional": null
+            },
+            {
+              "code": "38",
+              "main": "Poole Fast Service",
+              "additional": null
+            },
+            {
+              "code": "39",
+              "main": "Poole Stopping Service",
+              "additional": null
+            },
+            {
+              "code": "40",
+              "main": "Portsmouth Harbour",
+              "additional": null
+            },
+            {
+              "code": "41",
+              "main": "Portsmouth Harbour Fast Service",
+              "additional": null
+            },
+            {
+              "code": "42",
+              "main": "Portsmouth Harbour Stopping Service",
+              "additional": null
+            },
+            {
+              "code": "43",
+              "main": "Portsmouth Harbour via Basingstoke",
+              "additional": null
+            },
+            {
+              "code": "44",
+              "main": "Portsmouth & Southsea",
+              "additional": null
+            },
+            {
+              "code": "45",
+              "main": "Portsmouth & Southsea Fast Service",
+              "additional": null
+            },
+            {
+              "code": "46",
+              "main": "Portsmouth & Southsea Stopping Service",
+              "additional": null
+            },
+            {
+              "code": "47",
+              "main": "Portsmouth & Southsea via Basingstoke",
+              "additional": null
+            },
+            {
+              "code": "48",
+              "main": "Reading",
+              "additional": null
+            },
+            {
+              "code": "49",
+              "main": "Richmond",
+              "additional": null
+            },
+            {
+              "code": "50",
+              "main": "Richmond via Hounslow",
+              "additional": null
+            },
+            {
+              "code": "51",
+              "main": "Shepperton",
+              "additional": null
+            },
+            {
+              "code": "52",
+              "main": "Southampton Central",
+              "additional": null
+            },
+            {
+              "code": "53",
+              "main": "Southampton Central Fast Service",
+              "additional": null
+            },
+            {
+              "code": "54",
+              "main": "Southampton Central Stopping Service",
+              "additional": null
+            },
+            {
+              "code": "55",
+              "main": "Staines",
+              "additional": null
+            },
+            {
+              "code": "56",
+              "main": "Staines via Hounslow",
+              "additional": null
+            },
+            {
+              "code": "57",
+              "main": "Surbiton",
+              "additional": null
+            },
+            {
+              "code": "58",
+              "main": "Virginia Water",
+              "additional": null
+            },
+            {
+              "code": "59",
+              "main": "Wareham",
+              "additional": null
+            },
+            {
+              "code": "60",
+              "main": "Weybridge",
+              "additional": null
+            },
+            {
+              "code": "61",
+              "main": "Weybridge via Hounslow",
+              "additional": null
+            },
+            {
+              "code": "62",
+              "main": "Weymouth",
+              "additional": null
+            },
+            {
+              "code": "63",
+              "main": "Weymouth Fast Service",
+              "additional": null
+            },
+            {
+              "code": "64",
+              "main": "Weymouth Stopping Service",
+              "additional": null
+            },
+            {
+              "code": "65",
+              "main": "Winchester",
+              "additional": null
+            },
+            {
+              "code": "66",
+              "main": "Windsor & Eton Riverside",
+              "additional": null
+            },
+            {
+              "code": "67",
+              "main": "Woking",
+              "additional": null
+            },
+            {
+              "code": "68",
+              "main": "SWT",
+              "additional": null
+            },
+            {
+              "code": "69",
+              "main": "Sorry, Not in Service",
+              "additional": null
+            },
+            {
+              "code": "70",
+              "main": "Empty to Depot",
+              "additional": null
+            },
+            {
+              "code": "71",
+              "main": "Special",
+              "additional": null
+            },
+            {
+              "code": "72",
+              "main": "Chessington South",
+              "additional": null
+            },
+            {
+              "code": "73",
+              "main": "Brockenhurst Stopping Service",
+              "additional": null
+            },
+            {
+              "code": "74",
+              "main": "Epsom",
+              "additional": null
+            }
+          ],
+          "livery": "South West Trains"
+        }
+      ],
+      "traction": "Electric"
+    },
+    {
+      "key": "dtg_class455",
+      "name": "Class 455",
+      "publisher": "Dovetail",
+      "trainVariants": [
+        {
+          "class": null,
+          "operatorKey": "swt",
+          "displays": [
+            {
+              "code": "a",
+              "main": "Not in Service",
+              "additional": "<Blank>"
+            },
+            {
+              "code": "b",
+              "main": "Aldershot",
+              "additional": "Direct"
+            },
+            {
+              "code": "c",
+              "main": "Ascot",
+              "additional": "Direct 14"
+            },
+            {
+              "code": "d",
+              "main": "Basingstoke",
+              "additional": "Direct 18"
+            },
+            {
+              "code": "e",
+              "main": "Chessington",
+              "additional": "Direct 19"
+            },
+            {
+              "code": "f",
+              "main": "Chessington Sth",
+              "additional": "Direct 21"
+            },
+            {
+              "code": "g",
+              "main": "Clapham",
+              "additional": "Direct 23"
+            },
+            {
+              "code": "h",
+              "main": "Clapham Junction",
+              "additional": "Direct 42"
+            },
+            {
+              "code": "i",
+              "main": "Dorking",
+              "additional": "Direct 58"
+            },
+            {
+              "code": "j",
+              "main": "Effingham Jct",
+              "additional": "Direct 68"
+            },
+            {
+              "code": "k",
+              "main": "Epsom",
+              "additional": "Via Brenford 13"
+            },
+            {
+              "code": "l",
+              "main": "Guildford",
+              "additional": "Via Brenford 57"
+            },
+            {
+              "code": "m",
+              "main": "Hampton Court",
+              "additional": "Via Brenford 87"
+            },
+            {
+              "code": "n",
+              "main": "Haslemere",
+              "additional": "Via Brenford 89"
+            },
+            {
+              "code": "o",
+              "main": "Horsham",
+              "additional": "Via Brenford 99"
+            },
+            {
+              "code": "p",
+              "main": "Hounslow",
+              "additional": "Via Chertsey 14"
+            },
+            {
+              "code": "q",
+              "main": "Kensington",
+              "additional": "Via Chertsey 98"
+            },
+            {
+              "code": "r",
+              "main": "Kingston",
+              "additional": "Via Cobham 42"
+            },
+            {
+              "code": "s",
+              "main": "Reading",
+              "additional": "Via Epsom 15"
+            },
+            {
+              "code": "t",
+              "main": "Shepperton",
+              "additional": "Via Epsom 16"
+            },
+            {
+              "code": "u",
+              "main": "Staines",
+              "additional": "Via Epsom 17"
+            },
+            {
+              "code": "v",
+              "main": "Strawberry Hill",
+              "additional": "Via Hounslow 13"
+            },
+            {
+              "code": "w",
+              "main": "Twickenham",
+              "additional": "Via Hounslow 99"
+            },
+            {
+              "code": "x",
+              "main": "Waterloo",
+              "additional": "Via Kingston 21"
+            },
+            {
+              "code": "y",
+              "main": "West Croydon",
+              "additional": "Via Kingston 24"
+            },
+            {
+              "code": "z",
+              "main": "Weybridge",
+              "additional": "Via Kingston 32"
+            },
+            {
+              "code": "A",
+              "main": "Wimbledon",
+              "additional": "Via Richmond 14"
+            },
+            {
+              "code": "B",
+              "main": "Windsow & Eton",
+              "additional": "Via Richmond 21"
+            },
+            {
+              "code": "C",
+              "main": "Windsow & Eton Riverside",
+              "additional": "Via Richmond 32"
+            },
+            {
+              "code": "D",
+              "main": "Woking",
+              "additional": "Via Richmond 47"
+            },
+            {
+              "code": "E",
+              "main": "Special",
+              "additional": "Via Richmond 58"
+            },
+            {
+              "code": "F",
+              "main": "Charter",
+              "additional": "Via Richmond 68"
+            },
+            {
+              "code": "G",
+              "main": "Sorry",
+              "additional": "Via Richmond 89"
+            },
+            {
+              "code": "H",
+              "main": "Empty to Depot",
+              "additional": "Via Surbiton 10"
+            },
+            {
+              "code": "I",
+              "main": "Race Special",
+              "additional": "Via Surbiton 30"
+            },
+            {
+              "code": "J",
+              "main": "Havant",
+              "additional": "Via Surbiton 42"
+            },
+            {
+              "code": "K",
+              "main": "Fratton",
+              "additional": "Via Wimbeldon 17"
+            },
+            {
+              "code": "L",
+              "main": "Portsmouth & Southsea",
+              "additional": "Via Wimbeldon 18"
+            },
+            {
+              "code": "M",
+              "main": "Portsmouth Harbour",
+              "additional": "Via Wimbeldon 32"
+            },
+            {
+              "code": "N",
+              "main": "<Blank>",
+              "additional": "Via Wimbeldon 19"
+            },
+            {
+              "code": "O",
+              "main": "<Blank>",
+              "additional": "Via Woking 73"
+            },
+            {
+              "code": "P",
+              "main": "<Blank>",
+              "additional": "Via Woking 75"
+            },
+            {
+              "code": "Q",
+              "main": "<Blank>",
+              "additional": "Via Weybridge 14"
+            },
+            {
+              "code": "R",
+              "main": "<Blank>",
+              "additional": "Olympia"
+            },
+            {
+              "code": "S",
+              "main": "<Blank>",
+              "additional": "Junction"
+            },
+            {
+              "code": "T",
+              "main": "<Blank>",
+              "additional": "Special"
+            },
+            {
+              "code": "U",
+              "main": "<Blank>",
+              "additional": "Charter"
+            },
+            {
+              "code": "V",
+              "main": "<Blank>",
+              "additional": "Not in Service"
+            },
+            {
+              "code": "W",
+              "main": "<Blank>",
+              "additional": "For Cleaning"
+            },
+            {
+              "code": "X",
+              "main": "<Blank>",
+              "additional": "For Servicing"
+            },
+            {
+              "code": "Y",
+              "main": "<Blank>",
+              "additional": "Race Special"
+            },
+            {
+              "code": "Z",
+              "main": "<Blank>",
+              "additional": "Rugby Special"
+            }
+          ],
+          "livery": "South West Trains"
+        }
+      ],
+      "traction": "Electric"
+    },
+    {
+      "key": "dtg_class220",
+      "name": "Class 220",
+      "publisher": "Dovetail",
+      "trainVariants": [
+        {
+          "class": null,
+          "operatorKey": "xc",
+          "displays": [
+            {
+              "code": "A",
+              "main": "Aberdeen",
+              "additional": null
+            },
+            {
+              "code": "B",
+              "main": "Dundee",
+              "additional": null
+            },
+            {
+              "code": "C",
+              "main": "Glasgow Central",
+              "additional": null
+            },
+            {
+              "code": "D",
+              "main": "Edinburgh Waverley",
+              "additional": null
+            },
+            {
+              "code": "E",
+              "main": "Newcastle",
+              "additional": null
+            },
+            {
+              "code": "F",
+              "main": "Darlington",
+              "additional": null
+            },
+            {
+              "code": "G",
+              "main": "York",
+              "additional": null
+            },
+            {
+              "code": "H",
+              "main": "Birmingham New Street",
+              "additional": null
+            },
+            {
+              "code": "I",
+              "main": "Bristol Temple Meads",
+              "additional": null
+            },
+            {
+              "code": "J",
+              "main": "Newquay",
+              "additional": null
+            },
+            {
+              "code": "K",
+              "main": "Paignton",
+              "additional": null
+            },
+            {
+              "code": "L",
+              "main": "Exeter St Davids",
+              "additional": null
+            },
+            {
+              "code": "M",
+              "main": "Penzance",
+              "additional": null
+            },
+            {
+              "code": "N",
+              "main": "Plymouth",
+              "additional": null
+            },
+            {
+              "code": "O",
+              "main": "Southampton Central",
+              "additional": null
+            },
+            {
+              "code": "P",
+              "main": "Guildford",
+              "additional": null
+            },
+            {
+              "code": "Q",
+              "main": "Reading",
+              "additional": null
+            },
+            {
+              "code": "R",
+              "main": "Gatwick Airport",
+              "additional": null
+            },
+            {
+              "code": "S",
+              "main": "Manchester Piccadilly",
+              "additional": null
+            },
+            {
+              "code": "T",
+              "main": "Bournemouth",
+              "additional": null
+            },
+            {
+              "code": "U",
+              "main": "Bath Spa",
+              "additional": null
+            },
+            {
+              "code": "V",
+              "main": "Cheltenham Spa",
+              "additional": null
+            },
+            {
+              "code": "W",
+              "main": "Basingstoke",
+              "additional": null
+            },
+            {
+              "code": "X",
+              "main": "Oxford",
+              "additional": null
+            },
+            {
+              "code": "Y",
+              "main": "Derby",
+              "additional": null
+            },
+            {
+              "code": "Z",
+              "main": "Brighton",
+              "additional": null
+            }
+          ],
+          "livery": "Cross Country"
+        }
+      ],
+      "traction": "Diesel"
+    },
+    {
+      "key": "dtg_class221",
+      "name": "Class 221",
+      "publisher": "Dovetail",
+      "trainVariants": [
+        {
+          "class": null,
+          "operatorKey": "awc",
+          "displays": [
+            {
+              "code": "A",
+              "main": "Aberdeen",
+              "additional": null
+            },
+            {
+              "code": "B",
+              "main": "Bangor",
+              "additional": null
+            },
+            {
+              "code": "C",
+              "main": "Basingstoke",
+              "additional": null
+            },
+            {
+              "code": "D",
+              "main": "Bath Spa",
+              "additional": null
+            },
+            {
+              "code": "E",
+              "main": "Birmingham New Street",
+              "additional": null
+            },
+            {
+              "code": "F",
+              "main": "Blackpool North",
+              "additional": null
+            },
+            {
+              "code": "G",
+              "main": "Bournemouth",
+              "additional": null
+            },
+            {
+              "code": "H",
+              "main": "Brighton",
+              "additional": null
+            },
+            {
+              "code": "I",
+              "main": "Bristol",
+              "additional": null
+            },
+            {
+              "code": "J",
+              "main": "Carlisle",
+              "additional": null
+            },
+            {
+              "code": "K",
+              "main": "Cheltenham",
+              "additional": null
+            },
+            {
+              "code": "L",
+              "main": "Chester",
+              "additional": null
+            },
+            {
+              "code": "M",
+              "main": "Crewe",
+              "additional": null
+            },
+            {
+              "code": "N",
+              "main": "Derby",
+              "additional": null
+            },
+            {
+              "code": "O",
+              "main": "Dundee",
+              "additional": null
+            },
+            {
+              "code": "P",
+              "main": "Edinburgh",
+              "additional": null
+            },
+            {
+              "code": "Q",
+              "main": "Exeter",
+              "additional": null
+            },
+            {
+              "code": "R",
+              "main": "Gatwick Airport",
+              "additional": null
+            },
+            {
+              "code": "S",
+              "main": "Glasgow",
+              "additional": null
+            },
+            {
+              "code": "T",
+              "main": "Guildford",
+              "additional": null
+            },
+            {
+              "code": "U",
+              "main": "Holyhead",
+              "additional": null
+            },
+            {
+              "code": "V",
+              "main": "Lancaster",
+              "additional": null
+            },
+            {
+              "code": "W",
+              "main": "Leeds",
+              "additional": null
+            },
+            {
+              "code": "X",
+              "main": "Liverpool Lime Street",
+              "additional": null
+            },
+            {
+              "code": "Y",
+              "main": "LLandudno",
+              "additional": null
+            },
+            {
+              "code": "Z",
+              "main": "London Euston",
+              "additional": null
+            },
+            {
+              "code": "a",
+              "main": "Manchester Piccadilly",
+              "additional": null
+            },
+            {
+              "code": "b",
+              "main": "Milton Keynes Central",
+              "additional": null
+            },
+            {
+              "code": "c",
+              "main": "Newcastle",
+              "additional": null
+            },
+            {
+              "code": "d",
+              "main": "Newquay",
+              "additional": null
+            },
+            {
+              "code": "e",
+              "main": "Oxford",
+              "additional": null
+            },
+            {
+              "code": "f",
+              "main": "Paignton",
+              "additional": null
+            },
+            {
+              "code": "g",
+              "main": "Penzance",
+              "additional": null
+            },
+            {
+              "code": "h",
+              "main": "Plymouth",
+              "additional": null
+            },
+            {
+              "code": "i",
+              "main": "Poole",
+              "additional": null
+            },
+            {
+              "code": "j",
+              "main": "Reading",
+              "additional": null
+            },
+            {
+              "code": "k",
+              "main": "Sheffield",
+              "additional": null
+            },
+            {
+              "code": "l",
+              "main": "Shrewsbury",
+              "additional": null
+            },
+            {
+              "code": "m",
+              "main": "Southampton Central",
+              "additional": null
+            },
+            {
+              "code": "n",
+              "main": "York",
+              "additional": null
+            },
+            {
+              "code": "o",
+              "main": "Wolverhampton",
+              "additional": null
+            },
+            {
+              "code": "p",
+              "main": "Wrexham",
+              "additional": null
+            }
+          ],
+          "livery": "Avanti West Coast"
+        }
+      ],
+      "traction": "Diesel"
+    },
+    {
+      "key": "dtg_class319",
+      "name": "Class 319",
+      "publisher": "Dovetail",
+      "trainVariants": [
+        {
+          "class": null,
+          "operatorKey": "fcc",
+          "displays": [
+            {
+              "code": "a",
+              "main": "Brighton via Gatwick Airport",
+              "additional": null
+            },
+            {
+              "code": "b",
+              "main": "Brighton",
+              "additional": null
+            },
+            {
+              "code": "c",
+              "main": "City Thameslink",
+              "additional": null
+            },
+            {
+              "code": "d",
+              "main": "Bedford",
+              "additional": null
+            },
+            {
+              "code": "e",
+              "main": "London Bridge",
+              "additional": null
+            },
+            {
+              "code": "f",
+              "main": "Farringdon",
+              "additional": null
+            },
+            {
+              "code": "g",
+              "main": "Gatwick Airport",
+              "additional": null
+            },
+            {
+              "code": "h",
+              "main": "Herne Hill",
+              "additional": null
+            },
+            {
+              "code": "i",
+              "main": "Horsham",
+              "additional": null
+            },
+            {
+              "code": "j",
+              "main": "London Blackfriars",
+              "additional": null
+            },
+            {
+              "code": "k",
+              "main": "Kentish Town",
+              "additional": null
+            },
+            {
+              "code": "l",
+              "main": "Luton",
+              "additional": null
+            },
+            {
+              "code": "m",
+              "main": "Moorgate",
+              "additional": null
+            },
+            {
+              "code": "n",
+              "main": "Norwood Junction",
+              "additional": null
+            },
+            {
+              "code": "o",
+              "main": "Orpington via Herne Hill",
+              "additional": null
+            },
+            {
+              "code": "p",
+              "main": "St Pancras",
+              "additional": null
+            },
+            {
+              "code": "q",
+              "main": "St Albans City",
+              "additional": null
+            },
+            {
+              "code": "r",
+              "main": "Three Bridges",
+              "additional": null
+            },
+            {
+              "code": "s",
+              "main": "Sevenoaks",
+              "additional": null
+            },
+            {
+              "code": "t",
+              "main": "Thameslink",
+              "additional": null
+            },
+            {
+              "code": "u",
+              "main": "Sutton",
+              "additional": null
+            },
+            {
+              "code": "v",
+              "main": "Victoria",
+              "additional": null
+            },
+            {
+              "code": "w",
+              "main": "Sutotn via Wimbledon",
+              "additional": null
+            },
+            {
+              "code": "x",
+              "main": "Special",
+              "additional": null
+            },
+            {
+              "code": "y",
+              "main": "Empty to Depot",
+              "additional": null
+            },
+            {
+              "code": "z",
+              "main": "Not in Service",
+              "additional": null
+            }
+          ],
+          "livery": "First Capital Connect"
+        }
+      ],
+      "traction": "Electric"
+    },
+    {
+      "key": "dtg_class365",
+      "name": "Class 365",
+      "publisher": "Dovetail",
+      "trainVariants": [
+        {
+          "class": null,
+          "operatorKey": "fcc",
+          "displays": [
+            {
+              "code": "a",
+              "main": "Alexandra Palace",
+              "additional": null
+            },
+            {
+              "code": "b",
+              "main": "Potter Bar",
+              "additional": null
+            },
+            {
+              "code": "c",
+              "main": "Class 365",
+              "additional": null
+            },
+            {
+              "code": "d",
+              "main": "Drayton Park",
+              "additional": null
+            },
+            {
+              "code": "e",
+              "main": "Ely",
+              "additional": null
+            },
+            {
+              "code": "f",
+              "main": "Finsbury Park",
+              "additional": null
+            },
+            {
+              "code": "g",
+              "main": "Gordon Hill",
+              "additional": null
+            },
+            {
+              "code": "h",
+              "main": "Hitchin",
+              "additional": null
+            },
+            {
+              "code": "i",
+              "main": "Ipswich",
+              "additional": null
+            },
+            {
+              "code": "j",
+              "main": "London Liverpool St",
+              "additional": null
+            },
+            {
+              "code": "k",
+              "main": "Kings Lynn",
+              "additional": null
+            },
+            {
+              "code": "l",
+              "main": "Hertford North",
+              "additional": null
+            },
+            {
+              "code": "m",
+              "main": "Moorgate",
+              "additional": null
+            },
+            {
+              "code": "n",
+              "main": "St Neots",
+              "additional": null
+            },
+            {
+              "code": "o",
+              "main": "Colchester",
+              "additional": null
+            },
+            {
+              "code": "p",
+              "main": "Peterborough",
+              "additional": null
+            },
+            {
+              "code": "q",
+              "main": "Peterborough via Stevenage",
+              "additional": null
+            },
+            {
+              "code": "r",
+              "main": "Kings Lynn",
+              "additional": null
+            },
+            {
+              "code": "s",
+              "main": "Stevenage",
+              "additional": null
+            },
+            {
+              "code": "t",
+              "main": "Letchworth Garden City",
+              "additional": null
+            },
+            {
+              "code": "u",
+              "main": "Huntingdon",
+              "additional": null
+            },
+            {
+              "code": "v",
+              "main": "Manningtree",
+              "additional": null
+            },
+            {
+              "code": "w",
+              "main": "Welwyn Garden City",
+              "additional": null
+            },
+            {
+              "code": "x",
+              "main": "Not in Service Empty to Depot",
+              "additional": null
+            },
+            {
+              "code": "y",
+              "main": "Special. Special Ticket Holders Only",
+              "additional": null
+            },
+            {
+              "code": "z",
+              "main": "<Blank>",
+              "additional": null
+            }
+          ],
+          "livery": "First Capital Connect"
+        }
+      ],
+      "traction": "Electric"
+    },
+    {
+      "key": "dtg_class321",
+      "name": "Class 321",
+      "publisher": "Dovetail",
+      "trainVariants": [
+        {
+          "class": null,
+          "operatorKey": "fcc",
+          "displays": [
+            {
+              "code": "A",
+              "main": "Alexandra Palace",
+              "additional": null
+            },
+            {
+              "code": "B",
+              "main": "Potter Bar",
+              "additional": null
+            },
+            {
+              "code": "C",
+              "main": "Class 321",
+              "additional": null
+            },
+            {
+              "code": "D",
+              "main": "Drayton Park",
+              "additional": null
+            },
+            {
+              "code": "E",
+              "main": "Ely",
+              "additional": null
+            },
+            {
+              "code": "F",
+              "main": "Finsbury Park",
+              "additional": null
+            },
+            {
+              "code": "G",
+              "main": "Hitchin",
+              "additional": null
+            },
+            {
+              "code": "H",
+              "main": "Kings Lynn",
+              "additional": null
+            },
+            {
+              "code": "I",
+              "main": "Ipswich",
+              "additional": null
+            },
+            {
+              "code": "J",
+              "main": "London Liverpool St",
+              "additional": null
+            },
+            {
+              "code": "K",
+              "main": "Kings Lynn",
+              "additional": null
+            },
+            {
+              "code": "L",
+              "main": "Hertford North",
+              "additional": null
+            },
+            {
+              "code": "M",
+              "main": "Moorgate",
+              "additional": null
+            },
+            {
+              "code": "N",
+              "main": "St Neots",
+              "additional": null
+            },
+            {
+              "code": "O",
+              "main": "Colchester",
+              "additional": null
+            },
+            {
+              "code": "P",
+              "main": "Peterborough",
+              "additional": null
+            },
+            {
+              "code": "Q",
+              "main": "Peterborough via Stevenage",
+              "additional": null
+            },
+            {
+              "code": "R",
+              "main": "Kings Lynn",
+              "additional": null
+            },
+            {
+              "code": "S",
+              "main": "Stevenage",
+              "additional": null
+            },
+            {
+              "code": "T",
+              "main": "Letchworth Garden City",
+              "additional": null
+            },
+            {
+              "code": "U",
+              "main": "Huntingdon",
+              "additional": null
+            },
+            {
+              "code": "V",
+              "main": "Manningtree",
+              "additional": null
+            },
+            {
+              "code": "W",
+              "main": "Welwyn Garden City",
+              "additional": null
+            },
+            {
+              "code": "X",
+              "main": "Not in Service Empty to Depot",
+              "additional": null
+            },
+            {
+              "code": "Y",
+              "main": "Special. Special Ticket Holders Only",
+              "additional": null
+            },
+            {
+              "code": "Z",
+              "main": "<Blank>",
+              "additional": null
+            }
+          ],
+          "livery": "First Capital Connect"
+        }
+      ],
+      "traction": "Electric"
+    },
+    {
+      "key": "dtg_class175",
+      "name": "Class 175 Coradia",
+      "publisher": "Dovetail",
+      "trainVariants": [
+        {
+          "class": null,
+          "operatorKey": "atw",
+          "displays": [
+            {
+              "code": "a",
+              "main": "Arriva Trains Wales",
+              "additional": null
+            },
+            {
+              "code": "b",
+              "main": "Bristol Parkway",
+              "additional": null
+            },
+            {
+              "code": "c",
+              "main": "Caerdydd Canolog",
+              "additional": null
+            },
+            {
+              "code": "d",
+              "main": "Maesteg",
+              "additional": null
+            },
+            {
+              "code": "e",
+              "main": "Swansea",
+              "additional": null
+            },
+            {
+              "code": "f",
+              "main": "Milford Haven",
+              "additional": null
+            },
+            {
+              "code": "g",
+              "main": "Glocester",
+              "additional": null
+            },
+            {
+              "code": "h",
+              "main": "Holyhead",
+              "additional": null
+            },
+            {
+              "code": "i",
+              "main": "Cyffordd LLandudno",
+              "additional": null
+            },
+            {
+              "code": "j",
+              "main": "Blackpool North",
+              "additional": null
+            },
+            {
+              "code": "k",
+              "main": "Manceinion Piccadilly",
+              "additional": null
+            },
+            {
+              "code": "l",
+              "main": "Casnewydd",
+              "additional": null
+            },
+            {
+              "code": "m",
+              "main": "Caer",
+              "additional": null
+            },
+            {
+              "code": "n",
+              "main": "Preston",
+              "additional": null
+            },
+            {
+              "code": "o",
+              "main": "Crewe",
+              "additional": null
+            },
+            {
+              "code": "p",
+              "main": "Amwythig",
+              "additional": null
+            },
+            {
+              "code": "q",
+              "main": "Caerfyrddin",
+              "additional": null
+            },
+            {
+              "code": "r",
+              "main": "Birmingham New Street",
+              "additional": null
+            },
+            {
+              "code": "s",
+              "main": "Wrecsam Cyffredinol",
+              "additional": null
+            },
+            {
+              "code": "t",
+              "main": "Not in Service",
+              "additional": null
+            },
+            {
+              "code": "u",
+              "main": "Class 175",
+              "additional": null
+            },
+            {
+              "code": "v",
+              "main": "Empty to Depot",
+              "additional": null
+            },
+            {
+              "code": "w",
+              "main": "Arriva Trains Wales",
+              "additional": null
+            },
+            {
+              "code": "x",
+              "main": "Arriva Trains Wales",
+              "additional": null
+            },
+            {
+              "code": "y",
+              "main": "Arriva Trains Wales",
+              "additional": null
+            },
+            {
+              "code": "z",
+              "main": "Arriva Trains Wales",
+              "additional": null
+            },
+            {
+              "code": "A",
+              "main": "Arriva Trains Wales",
+              "additional": null
+            },
+            {
+              "code": "B",
+              "main": "Bristol Temple Meads",
+              "additional": null
+            },
+            {
+              "code": "C",
+              "main": "Cardiff Central",
+              "additional": null
+            },
+            {
+              "code": "D",
+              "main": "Abertawe",
+              "additional": null
+            },
+            {
+              "code": "E",
+              "main": "Aberdaugleddau",
+              "additional": null
+            },
+            {
+              "code": "F",
+              "main": "Caerloyw",
+              "additional": null
+            },
+            {
+              "code": "G",
+              "main": "Caergybi",
+              "additional": null
+            },
+            {
+              "code": "H",
+              "main": "Manchester Airport",
+              "additional": null
+            },
+            {
+              "code": "I",
+              "main": "LLandudno Junction",
+              "additional": null
+            },
+            {
+              "code": "J",
+              "main": "LLandudno",
+              "additional": null
+            },
+            {
+              "code": "K",
+              "main": "Manchester Piccadilly",
+              "additional": null
+            },
+            {
+              "code": "L",
+              "main": "Newport",
+              "additional": null
+            },
+            {
+              "code": "M",
+              "main": "Chester",
+              "additional": null
+            },
+            {
+              "code": "N",
+              "main": "Warrington Bank Quay",
+              "additional": null
+            },
+            {
+              "code": "O",
+              "main": "Cryw",
+              "additional": null
+            },
+            {
+              "code": "P",
+              "main": "Shrewsbury",
+              "additional": null
+            },
+            {
+              "code": "Q",
+              "main": "Carmarthen",
+              "additional": null
+            },
+            {
+              "code": "R",
+              "main": "Wigan North Western",
+              "additional": null
+            },
+            {
+              "code": "S",
+              "main": "Wrexham General",
+              "additional": null
+            },
+            {
+              "code": "T",
+              "main": "Special",
+              "additional": null
+            },
+            {
+              "code": "U",
+              "main": "Cheltenham Spa",
+              "additional": null
+            },
+            {
+              "code": "V",
+              "main": "Arriva Trains Wales",
+              "additional": null
+            },
+            {
+              "code": "W",
+              "main": "Arriva Trains Wales",
+              "additional": null
+            },
+            {
+              "code": "X",
+              "main": "Arriva Trains Wales",
+              "additional": null
+            },
+            {
+              "code": "Y",
+              "main": "Arriva Trains Wales",
+              "additional": null
+            },
+            {
+              "code": "Z",
+              "main": "Arriva Trains Wales",
+              "additional": null
+            }
+          ],
+          "livery": "Arriva Trains Wales"
+        },
+        {
+          "class": null,
+          "operatorKey": "tfw",
+          "displays": [
+            {
+              "code": "a",
+              "main": "Aberystwyth",
+              "additional": null
+            },
+            {
+              "code": "b",
+              "main": "Bristol Parkway",
+              "additional": null
+            },
+            {
+              "code": "c",
+              "main": "Caerdydd Canolog",
+              "additional": null
+            },
+            {
+              "code": "d",
+              "main": "Maesteg",
+              "additional": null
+            },
+            {
+              "code": "e",
+              "main": "Swansea",
+              "additional": null
+            },
+            {
+              "code": "f",
+              "main": "Milford Haven",
+              "additional": null
+            },
+            {
+              "code": "g",
+              "main": "Gloucester",
+              "additional": null
+            },
+            {
+              "code": "h",
+              "main": "Holyhead",
+              "additional": null
+            },
+            {
+              "code": "i",
+              "main": "Cyffordd Llandudno",
+              "additional": null
+            },
+            {
+              "code": "j",
+              "main": "Blackpool North",
+              "additional": null
+            },
+            {
+              "code": "k",
+              "main": "Manceinion Piccadilly",
+              "additional": null
+            },
+            {
+              "code": "l",
+              "main": "Casnewydd",
+              "additional": null
+            },
+            {
+              "code": "m",
+              "main": "Caer",
+              "additional": null
+            },
+            {
+              "code": "n",
+              "main": "Preston",
+              "additional": null
+            },
+            {
+              "code": "o",
+              "main": "Crewe",
+              "additional": null
+            },
+            {
+              "code": "p",
+              "main": "Amwythig",
+              "additional": null
+            },
+            {
+              "code": "q",
+              "main": "Caerfyddin",
+              "additional": null
+            },
+            {
+              "code": "r",
+              "main": "Birmingham New Street",
+              "additional": null
+            },
+            {
+              "code": "s",
+              "main": "Wrecsam Canolog",
+              "additional": null
+            },
+            {
+              "code": "t",
+              "main": "Not in Service",
+              "additional": null
+            },
+            {
+              "code": "u",
+              "main": "Class 175",
+              "additional": null
+            },
+            {
+              "code": "v",
+              "main": "Empty to Depot",
+              "additional": null
+            },
+            {
+              "code": "A",
+              "main": "Trains Wales",
+              "additional": null
+            },
+            {
+              "code": "B",
+              "main": "Bristol Temple Meads",
+              "additional": null
+            },
+            {
+              "code": "C",
+              "main": "Cardiff Central",
+              "additional": null
+            },
+            {
+              "code": "D",
+              "main": "Abertawe",
+              "additional": null
+            },
+            {
+              "code": "E",
+              "main": "Aberdaugleddau",
+              "additional": null
+            },
+            {
+              "code": "F",
+              "main": "Caerloyw",
+              "additional": null
+            },
+            {
+              "code": "G",
+              "main": "Caergybi",
+              "additional": null
+            },
+            {
+              "code": "H",
+              "main": "Manchester Airport",
+              "additional": null
+            },
+            {
+              "code": "I",
+              "main": "Llandudno Junction",
+              "additional": null
+            },
+            {
+              "code": "J",
+              "main": "Llandudno",
+              "additional": null
+            },
+            {
+              "code": "K",
+              "main": "Manchester Piccadilly",
+              "additional": null
+            },
+            {
+              "code": "L",
+              "main": "Newport",
+              "additional": null
+            },
+            {
+              "code": "M",
+              "main": "Chester",
+              "additional": null
+            },
+            {
+              "code": "N",
+              "main": "Warrington Bank Quay",
+              "additional": null
+            },
+            {
+              "code": "O",
+              "main": "Cryw",
+              "additional": null
+            },
+            {
+              "code": "P",
+              "main": "Shrewsbury",
+              "additional": null
+            },
+            {
+              "code": "Q",
+              "main": "Carmarthen",
+              "additional": null
+            },
+            {
+              "code": "R",
+              "main": "Wigan North Western",
+              "additional": null
+            },
+            {
+              "code": "S",
+              "main": "Wrexham General",
+              "additional": null
+            },
+            {
+              "code": "T",
+              "main": "Special",
+              "additional": null
+            },
+            {
+              "code": "U",
+              "main": "Cheltenham Spa",
+              "additional": null
+            },
+            {
+              "code": "#",
+              "main": "Blank",
+              "additional": null
+            }
+          ],
+          "livery": "Transport for Wales"
+        }
+      ],
+      "traction": "Diesel"
+    },
+    {
+      "key": "dtg_class158",
+      "name": "Class 158",
+      "publisher": "Dovetail",
+      "trainVariants": [
+        {
+          "class": null,
+          "operatorKey": "fgw",
+          "displays": [
+            {
+              "code": "A",
+              "main": "Bath Spa",
+              "additional": null
+            },
+            {
+              "code": "B",
+              "main": "Brighton",
+              "additional": null
+            },
+            {
+              "code": "C",
+              "main": "Bristol Temple Meads",
+              "additional": null
+            },
+            {
+              "code": "D",
+              "main": "Bristol Temple Meads",
+              "additional": null
+            },
+            {
+              "code": "E",
+              "main": "Cardiff Central",
+              "additional": null
+            },
+            {
+              "code": "F",
+              "main": "Cheltenham",
+              "additional": null
+            },
+            {
+              "code": "G",
+              "main": "Didcot Parkway",
+              "additional": null
+            },
+            {
+              "code": "H",
+              "main": "Exeter St Davids",
+              "additional": null
+            },
+            {
+              "code": "I",
+              "main": "Gatwick Airport",
+              "additional": null
+            },
+            {
+              "code": "J",
+              "main": "Guildford",
+              "additional": null
+            },
+            {
+              "code": "K",
+              "main": "Paddington via Reading",
+              "additional": null
+            },
+            {
+              "code": "L",
+              "main": "Newport",
+              "additional": null
+            },
+            {
+              "code": "M",
+              "main": "Oxford",
+              "additional": null
+            },
+            {
+              "code": "N",
+              "main": "Paignton",
+              "additional": null
+            },
+            {
+              "code": "O",
+              "main": "Plymouth",
+              "additional": null
+            },
+            {
+              "code": "P",
+              "main": "Portsmouth Harbour",
+              "additional": null
+            },
+            {
+              "code": "Q",
+              "main": "Reading",
+              "additional": null
+            },
+            {
+              "code": "R",
+              "main": "Redhill",
+              "additional": null
+            },
+            {
+              "code": "S",
+              "main": "Swansea",
+              "additional": null
+            },
+            {
+              "code": "T",
+              "main": "Taunton",
+              "additional": null
+            },
+            {
+              "code": "U",
+              "main": "Weston-Super-Mare",
+              "additional": null
+            },
+            {
+              "code": "V",
+              "main": "Weymouth",
+              "additional": null
+            },
+            {
+              "code": "W",
+              "main": "Worcester Shrub Hill",
+              "additional": null
+            },
+            {
+              "code": "X",
+              "main": "Sorry Not in Service",
+              "additional": null
+            },
+            {
+              "code": "Y",
+              "main": "Special",
+              "additional": null
+            },
+            {
+              "code": "Z",
+              "main": "First Great Western",
+              "additional": null
+            }
+          ],
+          "livery": "First Great Western"
+        },
+        {
+          "class": null,
+          "operatorKey": "atw",
+          "displays": [
+            {
+              "code": "A",
+              "main": "Bristol Parkway",
+              "additional": null
+            },
+            {
+              "code": "B",
+              "main": "Bristol Temple Meads",
+              "additional": null
+            },
+            {
+              "code": "C",
+              "main": "Cardiff Central",
+              "additional": null
+            },
+            {
+              "code": "D",
+              "main": "Caerdydd Canolog",
+              "additional": null
+            },
+            {
+              "code": "E",
+              "main": "Maesteg",
+              "additional": null
+            },
+            {
+              "code": "F",
+              "main": "Milford Haven",
+              "additional": null
+            },
+            {
+              "code": "G",
+              "main": "Manchester Piccadilly",
+              "additional": null
+            },
+            {
+              "code": "H",
+              "main": "Manceinion Piccadilly",
+              "additional": null
+            },
+            {
+              "code": "I",
+              "main": "Crewe",
+              "additional": null
+            },
+            {
+              "code": "J",
+              "main": "Cryw",
+              "additional": null
+            },
+            {
+              "code": "K",
+              "main": "Swansea",
+              "additional": null
+            },
+            {
+              "code": "L",
+              "main": "Carmarthen",
+              "additional": null
+            },
+            {
+              "code": "M",
+              "main": "Caerfyddin",
+              "additional": null
+            },
+            {
+              "code": "N",
+              "main": "Cheltenham Spa",
+              "additional": null
+            },
+            {
+              "code": "O",
+              "main": "Gloucester",
+              "additional": null
+            },
+            {
+              "code": "P",
+              "main": "Birmingham New Street",
+              "additional": null
+            },
+            {
+              "code": "Q",
+              "main": "Llandudno",
+              "additional": null
+            },
+            {
+              "code": "R",
+              "main": "Llandudno Junction",
+              "additional": null
+            },
+            {
+              "code": "S",
+              "main": "Aberystwyth",
+              "additional": null
+            },
+            {
+              "code": "T",
+              "main": "Holyhead",
+              "additional": null
+            },
+            {
+              "code": "U",
+              "main": "Bangor",
+              "additional": null
+            },
+            {
+              "code": "V",
+              "main": "Pwllheli",
+              "additional": null
+            },
+            {
+              "code": "W",
+              "main": "Not in Service",
+              "additional": null
+            },
+            {
+              "code": "X",
+              "main": "Empty to Depot",
+              "additional": null
+            },
+            {
+              "code": "Y",
+              "main": "Special",
+              "additional": null
+            },
+            {
+              "code": "Z",
+              "main": "Class 158",
+              "additional": null
+            }
+          ],
+          "livery": "Arriva Trains Wales"
+        },
+        {
+          "class": null,
+          "operatorKey": "tfw",
+          "displays": [
+            {
+              "code": "A",
+              "main": "Bristol Parkway",
+              "additional": null
+            },
+            {
+              "code": "B",
+              "main": "Bristol Temple Meads",
+              "additional": null
+            },
+            {
+              "code": "C",
+              "main": "Cardiff Central",
+              "additional": null
+            },
+            {
+              "code": "D",
+              "main": "Caerdydd Canolog",
+              "additional": null
+            },
+            {
+              "code": "E",
+              "main": "Maesteg",
+              "additional": null
+            },
+            {
+              "code": "F",
+              "main": "Milford Haven",
+              "additional": null
+            },
+            {
+              "code": "G",
+              "main": "Manchester Piccadilly",
+              "additional": null
+            },
+            {
+              "code": "H",
+              "main": "Manceinion Piccadilly",
+              "additional": null
+            },
+            {
+              "code": "I",
+              "main": "Crewe",
+              "additional": null
+            },
+            {
+              "code": "J",
+              "main": "Cryw",
+              "additional": null
+            },
+            {
+              "code": "K",
+              "main": "Swansea",
+              "additional": null
+            },
+            {
+              "code": "L",
+              "main": "Carmarthen",
+              "additional": null
+            },
+            {
+              "code": "M",
+              "main": "Caerfyddin",
+              "additional": null
+            },
+            {
+              "code": "N",
+              "main": "Cheltenham Spa",
+              "additional": null
+            },
+            {
+              "code": "O",
+              "main": "Gloucester",
+              "additional": null
+            },
+            {
+              "code": "P",
+              "main": "Birmingham New Street",
+              "additional": null
+            },
+            {
+              "code": "Q",
+              "main": "Llandudno",
+              "additional": null
+            },
+            {
+              "code": "R",
+              "main": "Llandudno Junction",
+              "additional": null
+            },
+            {
+              "code": "S",
+              "main": "Aberystwyth",
+              "additional": null
+            },
+            {
+              "code": "T",
+              "main": "Holyhead",
+              "additional": null
+            },
+            {
+              "code": "U",
+              "main": "Bangor",
+              "additional": null
+            },
+            {
+              "code": "V",
+              "main": "Pwllheli",
+              "additional": null
+            },
+            {
+              "code": "W",
+              "main": "Not in Service",
+              "additional": null
+            },
+            {
+              "code": "X",
+              "main": "Empty to Depot",
+              "additional": null
+            },
+            {
+              "code": "Y",
+              "main": "Special",
+              "additional": null
+            },
+            {
+              "code": "Z",
+              "main": "Class 158",
+              "additional": null
+            },
+            {
+              "code": "#",
+              "main": "Blank",
+              "additional": null
+            }
+          ],
+          "livery": "Transport for Wales"
+        }
+      ],
+      "traction": "Diesel"
+    },
+    {
+      "key": "dtg_class143",
+      "name": "Class 143",
+      "publisher": "Dovetail",
+      "trainVariants": [
+        {
+          "class": null,
+          "operatorKey": "atw",
+          "displays": [
+            {
+              "code": "A",
+              "main": "Class 143",
+              "additional": null
+            },
+            {
+              "code": "B",
+              "main": "Treherbert",
+              "additional": null
+            },
+            {
+              "code": "C",
+              "main": "Rhymney",
+              "additional": null
+            },
+            {
+              "code": "D",
+              "main": "Aberdare",
+              "additional": null
+            },
+            {
+              "code": "E",
+              "main": "Ebbw Vale Town",
+              "additional": null
+            },
+            {
+              "code": "F",
+              "main": "Merthyr Tydfil",
+              "additional": null
+            },
+            {
+              "code": "G",
+              "main": "Abertillery",
+              "additional": null
+            },
+            {
+              "code": "H",
+              "main": "Coryton",
+              "additional": null
+            },
+            {
+              "code": "I",
+              "main": "Penarth",
+              "additional": null
+            },
+            {
+              "code": "J",
+              "main": "Cheltenham Spa",
+              "additional": null
+            },
+            {
+              "code": "K",
+              "main": "Barry Island",
+              "additional": null
+            },
+            {
+              "code": "L",
+              "main": "Maesteg",
+              "additional": null
+            },
+            {
+              "code": "M",
+              "main": "Ebbw Vale Parkway",
+              "additional": null
+            },
+            {
+              "code": "N",
+              "main": "Bristol Temple Meads",
+              "additional": null
+            },
+            {
+              "code": "O",
+              "main": "Radyr",
+              "additional": null
+            },
+            {
+              "code": "P",
+              "main": "Cardiff Bay",
+              "additional": null
+            },
+            {
+              "code": "Q",
+              "main": "Bridgend",
+              "additional": null
+            },
+            {
+              "code": "R",
+              "main": "Cardiff Central",
+              "additional": null
+            },
+            {
+              "code": "S",
+              "main": "Newport",
+              "additional": null
+            },
+            {
+              "code": "T",
+              "main": "Cardiff Queen Street",
+              "additional": null
+            },
+            {
+              "code": "U",
+              "main": "<Blank>",
+              "additional": null
+            },
+            {
+              "code": "V",
+              "main": "<Blank>",
+              "additional": null
+            },
+            {
+              "code": "W",
+              "main": "<Blank>",
+              "additional": null
+            },
+            {
+              "code": "X",
+              "main": "<Blank>",
+              "additional": null
+            },
+            {
+              "code": "Y",
+              "main": "Special",
+              "additional": null
+            },
+            {
+              "code": "Z",
+              "main": "Not in Service",
+              "additional": null
+            }
+          ],
+          "livery": "Arriva Trains Wales"
+        },
+        {
+          "class": null,
+          "operatorKey": "fgw",
+          "displays": [
+            {
+              "code": "A",
+              "main": "Class 143",
+              "additional": null
+            },
+            {
+              "code": "B",
+              "main": "Bristol Temple Meads",
+              "additional": null
+            },
+            {
+              "code": "C",
+              "main": "Dawlish Warren",
+              "additional": null
+            },
+            {
+              "code": "D",
+              "main": "Dawlish",
+              "additional": null
+            },
+            {
+              "code": "E",
+              "main": "Exeter St Davids",
+              "additional": null
+            },
+            {
+              "code": "F",
+              "main": "Exeter St Thomas",
+              "additional": null
+            },
+            {
+              "code": "G",
+              "main": "Exmouth",
+              "additional": null
+            },
+            {
+              "code": "H",
+              "main": "Exeter Central",
+              "additional": null
+            },
+            {
+              "code": "I",
+              "main": "Barnstaple",
+              "additional": null
+            },
+            {
+              "code": "J",
+              "main": "Cardiff Central",
+              "additional": null
+            },
+            {
+              "code": "K",
+              "main": "Carmarthen",
+              "additional": null
+            },
+            {
+              "code": "L",
+              "main": "Swansea",
+              "additional": null
+            },
+            {
+              "code": "M",
+              "main": "Barry Island",
+              "additional": null
+            },
+            {
+              "code": "N",
+              "main": "Newton Abbot",
+              "additional": null
+            },
+            {
+              "code": "O",
+              "main": "Okehampton",
+              "additional": null
+            },
+            {
+              "code": "P",
+              "main": "Paignton",
+              "additional": null
+            },
+            {
+              "code": "Q",
+              "main": "Plymouth",
+              "additional": null
+            },
+            {
+              "code": "R",
+              "main": "Falmouth",
+              "additional": null
+            },
+            {
+              "code": "S",
+              "main": "Starcross",
+              "additional": null
+            },
+            {
+              "code": "T",
+              "main": "Teignmouth",
+              "additional": null
+            },
+            {
+              "code": "U",
+              "main": "Torre",
+              "additional": null
+            },
+            {
+              "code": "V",
+              "main": "Torquay",
+              "additional": null
+            },
+            {
+              "code": "W",
+              "main": "Weston-Super-Mare",
+              "additional": null
+            },
+            {
+              "code": "X",
+              "main": "Totnes",
+              "additional": null
+            },
+            {
+              "code": "Y",
+              "main": "Special",
+              "additional": null
+            },
+            {
+              "code": "Z",
+              "main": "Not in Service",
+              "additional": null
+            }
+          ],
+          "livery": "First Great Western"
+        }
+      ],
+      "traction": "Diesel"
+    },
+    {
+      "key": "dtg_class442",
+      "name": "Class 442",
+      "publisher": "Dovetail",
+      "trainVariants": [
+        {
+          "class": null,
+          "operatorKey": "gx",
+          "displays": [
+            {
+              "code": "A",
+              "main": "London Victoria",
+              "additional": null
+            },
+            {
+              "code": "B",
+              "main": "Brighton",
+              "additional": null
+            },
+            {
+              "code": "C",
+              "main": "East Croydon",
+              "additional": null
+            },
+            {
+              "code": "D",
+              "main": "Empty to Depot",
+              "additional": null
+            },
+            {
+              "code": "E",
+              "main": "Eastbourne",
+              "additional": null
+            },
+            {
+              "code": "F",
+              "main": "Littlehampton",
+              "additional": null
+            },
+            {
+              "code": "G",
+              "main": "Gatwick Airport",
+              "additional": null
+            },
+            {
+              "code": "H",
+              "main": "Hastings",
+              "additional": null
+            },
+            {
+              "code": "I",
+              "main": "London Bridge",
+              "additional": null
+            },
+            {
+              "code": "J",
+              "main": "Not in Service",
+              "additional": null
+            }
+          ],
+          "livery": "Gatwick Express"
+        }
+      ],
+      "traction": "Electric"
+    },
+    {
+      "key": "dtg_class465",
+      "name": "Class 465 Networker",
+      "publisher": "Dovetail",
+      "trainVariants": [
+        {
+          "class": null,
+          "operatorKey": "se",
+          "displays": [
+            {
+              "code": "a",
+              "main": "Ashford International via Maidstone East",
+              "additional": null
+            },
+            {
+              "code": "b",
+              "main": "Blackfriars",
+              "additional": null
+            },
+            {
+              "code": "c",
+              "main": "Cannon St",
+              "additional": null
+            },
+            {
+              "code": "d",
+              "main": "Dartford",
+              "additional": null
+            },
+            {
+              "code": "e",
+              "main": "Sittingbourne",
+              "additional": null
+            },
+            {
+              "code": "f",
+              "main": "Faversham",
+              "additional": null
+            },
+            {
+              "code": "g",
+              "main": "Gillingham",
+              "additional": null
+            },
+            {
+              "code": "h",
+              "main": "Canterbury East",
+              "additional": null
+            },
+            {
+              "code": "i",
+              "main": "Ashford International via Tonbridge",
+              "additional": null
+            },
+            {
+              "code": "j",
+              "main": "Ashford International via Gravesend",
+              "additional": null
+            },
+            {
+              "code": "k",
+              "main": "London Bridge via Dartford",
+              "additional": null
+            },
+            {
+              "code": "l",
+              "main": "London Bridge via Orpington",
+              "additional": null
+            },
+            {
+              "code": "m",
+              "main": "Maidstone East",
+              "additional": null
+            },
+            {
+              "code": "n",
+              "main": "Slade Green",
+              "additional": null
+            },
+            {
+              "code": "o",
+              "main": "Orpington",
+              "additional": null
+            },
+            {
+              "code": "p",
+              "main": "Paddock Wood",
+              "additional": null
+            },
+            {
+              "code": "q",
+              "main": "Strood",
+              "additional": null
+            },
+            {
+              "code": "r",
+              "main": "Rochester",
+              "additional": null
+            },
+            {
+              "code": "s",
+              "main": "Sheerness",
+              "additional": null
+            },
+            {
+              "code": "t",
+              "main": "Tonbridge",
+              "additional": null
+            },
+            {
+              "code": "u",
+              "main": "Bromley North",
+              "additional": null
+            },
+            {
+              "code": "v",
+              "main": "Victoria",
+              "additional": null
+            },
+            {
+              "code": "w",
+              "main": "Tunbridge W",
+              "additional": null
+            },
+            {
+              "code": "x",
+              "main": "Charing X",
+              "additional": null
+            },
+            {
+              "code": "y",
+              "main": "Out of Service. Stand Clear",
+              "additional": null
+            },
+            {
+              "code": "z",
+              "main": "Empty to Depot",
+              "additional": null
+            },
+            {
+              "code": "A",
+              "main": "Beckenham Jcn",
+              "additional": null
+            },
+            {
+              "code": "B",
+              "main": "Cannon Street via Bexleyheath",
+              "additional": null
+            },
+            {
+              "code": "C",
+              "main": "Cannon Street via Woolwich Arsenal",
+              "additional": null
+            },
+            {
+              "code": "D",
+              "main": "Canterbury West",
+              "additional": null
+            },
+            {
+              "code": "E",
+              "main": "Dartford via Bexleyheath",
+              "additional": null
+            },
+            {
+              "code": "F",
+              "main": "Dartford via Woolwich Arsenal",
+              "additional": null
+            },
+            {
+              "code": "G",
+              "main": "Dover P",
+              "additional": null
+            },
+            {
+              "code": "H",
+              "main": "Folkstone Ctl",
+              "additional": null
+            },
+            {
+              "code": "I",
+              "main": "Folkstone West",
+              "additional": null
+            },
+            {
+              "code": "J",
+              "main": "Hastings",
+              "additional": null
+            },
+            {
+              "code": "K",
+              "main": "Hayes via Lewisham",
+              "additional": null
+            },
+            {
+              "code": "L",
+              "main": "Maidstone West",
+              "additional": null
+            },
+            {
+              "code": "M",
+              "main": "Margate",
+              "additional": null
+            },
+            {
+              "code": "N",
+              "main": "Rainham",
+              "additional": null
+            },
+            {
+              "code": "O",
+              "main": "Ramsgate",
+              "additional": null
+            },
+            {
+              "code": "P",
+              "main": "Brighton",
+              "additional": null
+            },
+            {
+              "code": "Q",
+              "main": "Caterham",
+              "additional": null
+            },
+            {
+              "code": "R",
+              "main": "Gatwick Airport",
+              "additional": null
+            },
+            {
+              "code": "S",
+              "main": "Guildford",
+              "additional": null
+            },
+            {
+              "code": "T",
+              "main": "Haslemere",
+              "additional": null
+            },
+            {
+              "code": "U",
+              "main": "London Waterloo",
+              "additional": null
+            },
+            {
+              "code": "V",
+              "main": "Portsmouth Hbr",
+              "additional": null
+            },
+            {
+              "code": "W",
+              "main": "Portsmouth & SS",
+              "additional": null
+            },
+            {
+              "code": "X",
+              "main": "Redhill",
+              "additional": null
+            },
+            {
+              "code": "Y",
+              "main": "Tattenham Corner",
+              "additional": null
+            },
+            {
+              "code": "Z",
+              "main": "Woking",
+              "additional": null
+            }
+          ],
+          "livery": "Southeastern"
+        }
+      ],
+      "traction": "Electric"
+    },
+    {
+      "key": "dtg_class395",
+      "name": "Class 395",
+      "publisher": "Dovetail",
+      "trainVariants": [
+        {
+          "class": null,
+          "operatorKey": "se",
+          "displays": [
+            {
+              "code": "a",
+              "main": "St Pancras Int'l",
+              "additional": null
+            },
+            {
+              "code": "b",
+              "main": "Stratford Int'l",
+              "additional": null
+            },
+            {
+              "code": "c",
+              "main": "Ebbsfleet Int'l",
+              "additional": null
+            },
+            {
+              "code": "d",
+              "main": "Gravesend",
+              "additional": null
+            },
+            {
+              "code": "e",
+              "main": "Strood",
+              "additional": null
+            },
+            {
+              "code": "f",
+              "main": "Rochester",
+              "additional": null
+            },
+            {
+              "code": "g",
+              "main": "Gillingham",
+              "additional": null
+            },
+            {
+              "code": "h",
+              "main": "Chatham",
+              "additional": null
+            },
+            {
+              "code": "i",
+              "main": "Rainham",
+              "additional": null
+            },
+            {
+              "code": "j",
+              "main": "Sittingbourne",
+              "additional": null
+            },
+            {
+              "code": "k",
+              "main": "Faversham",
+              "additional": null
+            },
+            {
+              "code": "l",
+              "main": "Ashford International",
+              "additional": null
+            },
+            {
+              "code": "m",
+              "main": "Broadstairs",
+              "additional": null
+            },
+            {
+              "code": "n",
+              "main": "Canterbury West",
+              "additional": null
+            },
+            {
+              "code": "o",
+              "main": "Dover Priory",
+              "additional": null
+            },
+            {
+              "code": "p",
+              "main": "Folkstone Central",
+              "additional": null
+            },
+            {
+              "code": "q",
+              "main": "Maidstone West",
+              "additional": null
+            },
+            {
+              "code": "r",
+              "main": "Margate",
+              "additional": null
+            },
+            {
+              "code": "s",
+              "main": "Sandwich",
+              "additional": null
+            },
+            {
+              "code": "t",
+              "main": "Ramsgate",
+              "additional": null
+            },
+            {
+              "code": "u",
+              "main": "Not in Use",
+              "additional": null
+            }
+          ],
+          "livery": "Southeastern"
+        }
+      ],
+      "traction": "Electric"
+    }
+  ]
+}
