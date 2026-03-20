@@ -1,12 +1,7 @@
 import HeadcodeGenerator from "../components/features/HeadcodeGenerator/HeadcodeGenerator";
 
 function Headcodes() {
-  return (
-    <>
-      <h2 className="page-heading">UK Rail Headcode Generator</h2>
-      <HeadcodeGenerator />
-    </>
-  );
+    return <HeadcodeGenerator />;
 }
 
 export default Headcodes;

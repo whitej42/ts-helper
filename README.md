@@ -3,7 +3,7 @@ I like trains :station:
 
 Website listing destination codes for locomotives in Train Simulator Classic Scenario Editor. Also displays live London Underground, National Rail and River Boat service status (because why not). Polls data from the [Unified TFL API](https://api-portal.tfl.gov.uk/apis).
 
-Built using React, test site hosted on AWS - [Test Site](https://main.d2syhjzkq48hd.amplifyapp.com)
+Built using React, [Website](https://tscscenario.co.uk)
 
 ## Status
 **Under Development**
@@ -18,11 +18,8 @@ Built using React, test site hosted on AWS - [Test Site](https://main.d2syhjzkq4
 ```
 git clone https://github.com/whitej42/ts-dest-codes.git
 ```
-2. Change into ts-dest-codes directory
 ```
-cd ts-dest-codes
-```
-3. Start development server.
+2. Start development server.
 ```
 npm start
 ```

@@ -1,16 +1,35 @@
-import { FaInstagram, FaEnvelope, FaGithub } from "react-icons/fa";
+import { FaInstagram, FaGithub } from "react-icons/fa";
 
 function IconBar() {
     return (
-        <div className="icon-bar">
-            <h2 className="contact-title">Contact</h2>
-            <ul className="icon-list">
-                <li className="hover"><a className="btn" href="https://www.instagram.com/smej_trains/?utm_source=ig_embed&ig_rid=475e99c4-cbbd-45b4-b7b2-616a9cbac587" target="_blank" rel="noopener noreferrer"><FaInstagram /></a></li>
-                <li className="hover"><a className="btn" href="https://github.com/whitej42/ts-dest-codes" target="_blank" rel="noopener noreferrer"><FaGithub /></a></li>
-                {/* <li className="hover"><a className="btn"><FaEnvelope /></a></li> */}
+        <div className="px-5 py-4">
+            <p className="font-rail font-bold tracking-rail uppercase text-xs text-white/40 mb-3">Contact</p>
+            <ul className="flex items-center gap-3">
+                <li>
+                    <a
+                        href="https://www.instagram.com/smej_trains/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        aria-label="Instagram"
+                        className="flex items-center justify-center w-9 h-9 text-white/60 hover:text-white hover:bg-white/10 rounded-rail text-lg transition-colors"
+                    >
+                        <FaInstagram />
+                    </a>
+                </li>
+                <li>
+                    <a
+                        href="https://github.com/whitej42/ts-dest-codes"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        aria-label="GitHub"
+                        className="flex items-center justify-center w-9 h-9 text-white/60 hover:text-white hover:bg-white/10 rounded-rail text-lg transition-colors"
+                    >
+                        <FaGithub />
+                    </a>
+                </li>
             </ul>
         </div>
-    )
+    );
 }
 
-export default IconBar
+export default IconBar;

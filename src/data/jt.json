@@ -1,0 +1,182 @@
+{
+  "dlcPacks": [
+    {
+      "key": "jt_class222",
+      "name": "Class 222",
+      "publisher": "Just Trains",
+      "trainVariants": [
+        {
+          "class": null,
+          "operatorKey": "east_midlands_trains",
+          "displays": [
+            {
+              "code": "01",
+              "main": "Barnsley",
+              "additional": null
+            },
+            {
+              "code": "02",
+              "main": "Beverley",
+              "additional": null
+            },
+            {
+              "code": "03",
+              "main": "Corby",
+              "additional": null
+            },
+            {
+              "code": "04",
+              "main": "Crewe",
+              "additional": null
+            },
+            {
+              "code": "05",
+              "main": "Derby",
+              "additional": null
+            },
+            {
+              "code": "06",
+              "main": "Doncaster",
+              "additional": null
+            },
+            {
+              "code": "07",
+              "main": "Hull",
+              "additional": null
+            },
+            {
+              "code": "08",
+              "main": "Leeds",
+              "additional": null
+            },
+            {
+              "code": "09",
+              "main": "Leicester",
+              "additional": null
+            },
+            {
+              "code": "10",
+              "main": "Lincoln",
+              "additional": null
+            },
+            {
+              "code": "11",
+              "main": "Liverpool Lime Street",
+              "additional": null
+            },
+            {
+              "code": "12",
+              "main": "London Kings Cross",
+              "additional": null
+            },
+            {
+              "code": "13",
+              "main": "London St Pancras",
+              "additional": null
+            },
+            {
+              "code": "14",
+              "main": "Melton Mewbray",
+              "additional": null
+            },
+            {
+              "code": "15",
+              "main": "Norwich",
+              "additional": null
+            },
+            {
+              "code": "16",
+              "main": "Nottingham",
+              "additional": null
+            },
+            {
+              "code": "17",
+              "main": "Scarborough",
+              "additional": null
+            },
+            {
+              "code": "18",
+              "main": "Selby",
+              "additional": null
+            },
+            {
+              "code": "19",
+              "main": "Sheffield",
+              "additional": null
+            },
+            {
+              "code": "20",
+              "main": "York",
+              "additional": null
+            },
+            {
+              "code": "21",
+              "main": "<Blank>",
+              "additional": null
+            }
+          ],
+          "livery": "East Midlands Trains"
+        }
+      ]
+    },
+    {
+      "key": "jt_classlus8",
+      "name": "Metropolitan Line S8 Stock",
+      "publisher": "Just Trains",
+      "trainVariants": [
+        {
+          "class": null,
+          "operatorKey": "london_underground",
+          "displays": [
+            {
+              "code": "1",
+              "main": "Aldgate",
+              "additional": null
+            },
+            {
+              "code": "2",
+              "main": "Amersham",
+              "additional": null
+            },
+            {
+              "code": "3",
+              "main": "Baker Street",
+              "additional": null
+            },
+            {
+              "code": "4",
+              "main": "Chesham",
+              "additional": null
+            },
+            {
+              "code": "5",
+              "main": "Uxbridge",
+              "additional": null
+            },
+            {
+              "code": "6",
+              "main": "Watford",
+              "additional": null
+            },
+            {
+              "code": "7",
+              "main": "Harrow-on-the-Hill",
+              "additional": null
+            },
+            {
+              "code": "8",
+              "main": "Wembley Park",
+              "additional": null
+            },
+            {
+              "code": "9",
+              "main": "Not in Service",
+              "additional": null
+            }
+          ],
+          "livery": "London Underground"
+        }
+      ]
+    }
+  ]
+}

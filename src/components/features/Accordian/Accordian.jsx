@@ -1,15 +1,19 @@
 import './Accordian.css';
-import data from "../../../data/uk_locos.json";
 import AccordianItem from "./AccordianItem";
+import { useLocos } from "../../../hooks/useLocos";
 
 function Accordian() {
+    const { locos, loading, error } = useLocos();
+
+    if (loading) return <div className="accordion">Loading…</div>;
+    if (error)   return <div className="accordion">Error: {error}</div>;
 
     return (
         <div className="accordion">
             <div className="accordian-search">
                 <input type="text" id="search" name="search" placeholder="Search"/>
             </div>
-            {data.map((loco) => (
+            {locos.map((loco) => (
                 <AccordianItem key={loco['key']} loco={loco} />
             ))}
         </div>
