@@ -66,7 +66,7 @@ function Destinations() {
             <Helmet>
                 <title>Destination Codes | TSCHelper</title>
                 <meta name="description" content="Browse destination board codes for all Train Simulator Classic locomotive classes. Filter by class, save favourites, and look up codes fast." />
-                <link rel="canonical" href="https://tscscenario.co.uk//destinations" />
+                <link rel="canonical" href="https://tscscenario.co.uk/destinations" />
             </Helmet>
             {/* ── Page heading ─────────────────────────────────────── */}
             <div className="mb-10">

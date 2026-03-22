@@ -13,7 +13,7 @@ function Status() {
             <Helmet>
                 <title>Live Status | TSCHelper</title>
                 <meta name="description" content="Real-time TfL and National Rail service status. Tube, Overground, Elizabeth line, DLR, and National Rail — all in one place." />
-                <link rel="canonical" href="https://tscscenario.co.uk//status" />
+                <link rel="canonical" href="https://tscscenario.co.uk/status" />
             </Helmet>
             {/* Page heading */}
             <div className="mb-10">

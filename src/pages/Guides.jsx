@@ -7,7 +7,7 @@ function Guides() {
             <Helmet>
                 <title>Guides | TSCHelper</title>
                 <meta name="description" content="Tips, notes, and guides for Train Simulator Classic scenario builders." />
-                <link rel="canonical" href="https://tscscenario.co.uk//guides" />
+                <link rel="canonical" href="https://tscscenario.co.uk/guides" />
             </Helmet>
             <div className="mb-8">
                 <h1 className="font-rail font-bold text-3xl sm:text-4xl tracking-tight text-rail-navy dark:text-white border-b-4 border-rail-red pb-2 inline-block">

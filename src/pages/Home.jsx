@@ -8,7 +8,7 @@ function Home() {
             <Helmet>
                 <title>TSCHelper | Train Simulator Classic Scenario Helper</title>
                 <meta name="description" content="Destination codes, headcode generation, and live UK rail status. Everything you need to build authentic Train Simulator Classic scenarios." />
-                <link rel="canonical" href="https://tscscenario.co.uk//" />
+                <link rel="canonical" href="https://tscscenario.co.uk/" />
             </Helmet>
             {/* ── Hero ─────────────────────────────────────────────── */}
             <section className="bg-gray-900 dark:bg-gray-950">

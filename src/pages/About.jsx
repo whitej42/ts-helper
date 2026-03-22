@@ -59,7 +59,7 @@ function About() {
             <Helmet>
                 <title>About | TSCHelper</title>
                 <meta name="description" content="TSCHelper is a free tool for Train Simulator Classic scenario builders. Built by James — a train nerd who got fed up hunting for destination codes." />
-                <link rel="canonical" href="https://tscscenario.co.uk//about" />
+                <link rel="canonical" href="https://tscscenario.co.uk/about" />
             </Helmet>
 
             {/* Hero */}
