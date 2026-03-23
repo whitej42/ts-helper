@@ -17174,7 +17174,7 @@
       "key": "ap_class314_315",
       "traction": "Electric",
       "name": "Class 314/315",
-      "manual_url": "https://www.armstrongpowerhouse.com/free_download/manuals/APC700EP_Manual.pdf",
+      "manual_url": "https://www.armstrongpowerhouse.com/free_download/manuals/APC314-315_Manual.pdf",
       "publisher": "Armstrong Powerhouse",
       "trainVariants": [
         {
@@ -18403,8 +18403,445 @@
       "trainVariants": [
         {
           "class": "321",
-          "operatorKey": "lm_fcc",
-          "livery": "LM & FCC",
+          "operatorKey": "lm",
+          "livery": "London Midland",
+          "displays": [
+            {
+              "code": "00900",
+              "main": "Alexandra Palace",
+              "additional": null
+            },
+            {
+              "code": "00905",
+              "main": "Biggleswade",
+              "additional": null
+            },
+            {
+              "code": "00017",
+              "main": "Birmingham International",
+              "additional": null
+            },
+            {
+              "code": "00018",
+              "main": "Birmingham New Street",
+              "additional": null
+            },
+            {
+              "code": "00019",
+              "main": "Birmingham New Street (NE)",
+              "additional": null
+            },
+            {
+              "code": "00023",
+              "main": "Bletchley",
+              "additional": null
+            },
+            {
+              "code": "00024",
+              "main": "Bletchley (NE)",
+              "additional": null
+            },
+            {
+              "code": "00910",
+              "main": "Bowes Park",
+              "additional": null
+            },
+            {
+              "code": "00823",
+              "main": "Braintree",
+              "additional": null
+            },
+            {
+              "code": "00300",
+              "main": "Cambridge",
+              "additional": null
+            },
+            {
+              "code": "00305",
+              "main": "Cambridge (Via Welwyn GC)",
+              "additional": null
+            },
+            {
+              "code": "00310",
+              "main": "Cambridge (Via Hertford North)",
+              "additional": null
+            },
+            {
+              "code": "00821",
+              "main": "Chelmsford",
+              "additional": null
+            },
+            {
+              "code": "00827",
+              "main": "Clacton",
+              "additional": null
+            },
+            {
+              "code": "00825",
+              "main": "Colchester",
+              "additional": null
+            },
+            {
+              "code": "00826",
+              "main": "Colchester Town",
+              "additional": null
+            },
+            {
+              "code": "00052",
+              "main": "Coventry",
+              "additional": null
+            },
+            {
+              "code": "00915",
+              "main": "Downham Market",
+              "additional": null
+            },
+            {
+              "code": "00700",
+              "main": "Ely",
+              "additional": null
+            },
+            {
+              "code": "00705",
+              "main": "Ely (Via Welwyn GC)",
+              "additional": null
+            },
+            {
+              "code": "00710",
+              "main": "Ely (Via Hertford North)",
+              "additional": null
+            },
+            {
+              "code": "00800",
+              "main": "Finsbury Park",
+              "additional": null
+            },
+            {
+              "code": "00805",
+              "main": "Finsbury Park (Via Welwyn GC)",
+              "additional": null
+            },
+            {
+              "code": "00815",
+              "main": "Gidea Park",
+              "additional": null
+            },
+            {
+              "code": "00920",
+              "main": "Gordon Hill",
+              "additional": null
+            },
+            {
+              "code": "00831",
+              "main": "Harwich International",
+              "additional": null
+            },
+            {
+              "code": "00832",
+              "main": "Harwich Town",
+              "additional": null
+            },
+            {
+              "code": "00126",
+              "main": "Hemel Hempstead",
+              "additional": null
+            },
+            {
+              "code": "00875",
+              "main": "Hertford North",
+              "additional": null
+            },
+            {
+              "code": "00925",
+              "main": "Hitchin (Via Welwyn GC)",
+              "additional": null
+            },
+            {
+              "code": "00930",
+              "main": "Huntingdon (Via Welwyn GC)",
+              "additional": null
+            },
+            {
+              "code": "00820",
+              "main": "Ingatestone",
+              "additional": null
+            },
+            {
+              "code": "00833",
+              "main": "Ipswich",
+              "additional": null
+            },
+            {
+              "code": "00824",
+              "main": "Kelvedon",
+              "additional": null
+            },
+            {
+              "code": "00100",
+              "main": "Kings Cross",
+              "additional": null
+            },
+            {
+              "code": "00105",
+              "main": "Kings Cross (Via Welwyn GC)",
+              "additional": null
+            },
+            {
+              "code": "00110",
+              "main": "Kings Cross (Via Hertford North)",
+              "additional": null
+            },
+            {
+              "code": "00115",
+              "main": "Kings Cross (Via Knebworth)",
+              "additional": null
+            },
+            {
+              "code": "00935",
+              "main": "Kings Lynn",
+              "additional": null
+            },
+            {
+              "code": "00940",
+              "main": "Kings Lynn (Via Welwyn GC)",
+              "additional": null
+            },
+            {
+              "code": "00945",
+              "main": "Kings Lynn (Via Hertford North)",
+              "additional": null
+            },
+            {
+              "code": "00400",
+              "main": "Letchworth",
+              "additional": null
+            },
+            {
+              "code": "00405",
+              "main": "Letchworth (Via Welwyn GC)",
+              "additional": null
+            },
+            {
+              "code": "00410",
+              "main": "Letchworth (Via Hertford North)",
+              "additional": null
+            },
+            {
+              "code": "00175",
+              "main": "London Euston",
+              "additional": null
+            },
+            {
+              "code": "00176",
+              "main": "London Euston (NE)",
+              "additional": null
+            },
+            {
+              "code": "00811",
+              "main": "London Liverpool St.",
+              "additional": null
+            },
+            {
+              "code": "00830",
+              "main": "Manningtree",
+              "additional": null
+            },
+            {
+              "code": "00191",
+              "main": "Milton Keynes",
+              "additional": null
+            },
+            {
+              "code": "00950",
+              "main": "New Barnet",
+              "additional": null
+            },
+            {
+              "code": "00199",
+              "main": "Northampton",
+              "additional": null
+            },
+            {
+              "code": "00201",
+              "main": "Northampton (NE)",
+              "additional": null
+            },
+            {
+              "code": "00835",
+              "main": "Norwich",
+              "additional": null
+            },
+            {
+              "code": "00200",
+              "main": "Peterborough",
+              "additional": null
+            },
+            {
+              "code": "00205",
+              "main": "Peterborough (Via Welwyn GC)",
+              "additional": null
+            },
+            {
+              "code": "00955",
+              "main": "Potters Bar",
+              "additional": null
+            },
+            {
+              "code": "00813",
+              "main": "Romford",
+              "additional": null
+            },
+            {
+              "code": "00600",
+              "main": "Royston",
+              "additional": null
+            },
+            {
+              "code": "00605",
+              "main": "Royston (Via Welwyn GC)",
+              "additional": null
+            },
+            {
+              "code": "00610",
+              "main": "Royston (Via Hertford North)",
+              "additional": null
+            },
+            {
+              "code": "00615",
+              "main": "Royston (Via Knebworth)",
+              "additional": null
+            },
+            {
+              "code": "00234",
+              "main": "Rugby",
+              "additional": null
+            },
+            {
+              "code": "00960",
+              "main": "Sandy",
+              "additional": null
+            },
+            {
+              "code": "00816",
+              "main": "Shenfield",
+              "additional": null
+            },
+            {
+              "code": "00817",
+              "main": "Southend Victoria",
+              "additional": null
+            },
+            {
+              "code": "00819",
+              "main": "Southminster",
+              "additional": null
+            },
+            {
+              "code": "00256",
+              "main": "St. Albans Abbey",
+              "additional": null
+            },
+            {
+              "code": "00965",
+              "main": "St. Neots",
+              "additional": null
+            },
+            {
+              "code": "00836",
+              "main": "Stansted Airport Express",
+              "additional": null
+            },
+            {
+              "code": "00500",
+              "main": "Stevenage",
+              "additional": null
+            },
+            {
+              "code": "00505",
+              "main": "Stevenage (Via Welwyn GC)",
+              "additional": null
+            },
+            {
+              "code": "00510",
+              "main": "Stevenage (Via Hertford North)",
+              "additional": null
+            },
+            {
+              "code": "00834",
+              "main": "Stowmarket",
+              "additional": null
+            },
+            {
+              "code": "00812",
+              "main": "Stratford",
+              "additional": null
+            },
+            {
+              "code": "00828",
+              "main": "Thorpe-le-Soken",
+              "additional": null
+            },
+            {
+              "code": "00277",
+              "main": "Tring",
+              "additional": null
+            },
+            {
+              "code": "00814",
+              "main": "Upminster",
+              "additional": null
+            },
+            {
+              "code": "00829",
+              "main": "Walton-on-Naze",
+              "additional": null
+            },
+            {
+              "code": "00294",
+              "main": "Watford Junction",
+              "additional": null
+            },
+            {
+              "code": "00850",
+              "main": "Welwyn GC",
+              "additional": null
+            },
+            {
+              "code": "00818",
+              "main": "Wickford",
+              "additional": null
+            },
+            {
+              "code": "00822",
+              "main": "Witham",
+              "additional": null
+            },
+            {
+              "code": "00295",
+              "main": "Wembley Central",
+              "additional": null
+            },
+            {
+              "code": "00990",
+              "main": "Special",
+              "additional": null
+            },
+            {
+              "code": "00992",
+              "main": "Empty to Depot",
+              "additional": null
+            },
+            {
+              "code": "00993",
+              "main": "Not in Service",
+              "additional": null
+            }
+          ]
+        },
+        {
+          "class": "321",
+          "operatorKey": "fcc",
+          "livery": "First Capital Connect",
           "displays": [
             {
               "code": "00900",
@@ -19072,7 +19509,7 @@
         },
         {
           "class": "321",
-          "operatorKey": "sr",
+          "operatorKey": "scr",
           "livery": "ScotRail",
           "displays": [
             {
