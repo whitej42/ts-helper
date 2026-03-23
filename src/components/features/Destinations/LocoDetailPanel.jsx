@@ -67,7 +67,7 @@ function LocoDetailPanel({ loco, isFavourite, onToggleFavourite, onClose }) {
 
                     <div className="flex items-center gap-2 shrink-0 mt-1">
                         <button
-                            onClick={() => onToggleFavourite(loco.name)}
+                            onClick={() => onToggleFavourite(loco.key)}
                             aria-label={isFavourite ? 'Remove from favourites' : 'Add to favourites'}
                             className="flex items-center justify-center w-8 h-8 rounded-rail hover:bg-gray-100 dark:hover:bg-surface-dark-alt transition-colors text-base"
                         >
