@@ -46,13 +46,13 @@
       {
         "name": "Ramsgate via Margate",
         "color": "#242b57",
-        "stations": ["WHI","CSW","HNB","BCH","WGA","MAR","BSR","RAM"],
+        "stations": ["WHI","CSW","HNB","BCH","WGA","MAR","BSR","DMP","RAM"],
         "branchFrom": "FAV"
       },
       {
         "name": "Dover via Canterbury",
         "color": "#242b57",
-        "stations": ["SEG","DMP","CBE","BKS","ADM","AYH","SWO","SPH","KSN","DVP"],
+        "stations": ["SEG","CBE","BKS","ADM","AYH","SWO","SPH","KSN","DVP"],
         "branchFrom": "FAV"
       }
     ]
@@ -110,13 +110,13 @@
       {
         "name": "Watford DC Line",
         "color": "#ffa600",
-        "stations": ["EUS","SOH","KBN","QPW","KNL","WIJ","HDN","SBP","WMB","NWB","SOK","KNT","HRW","HDL","HTE","CPK","BSH","WFH","WFJ"],
+        "stations": ["EUS","SOH","KBN","QPW","KNL","WIJ","HDN","SBP","WMB","NWB","SOK","KNT","HRW","HDL","HTE","CPK","BSH","WFH","WFJ"]
       }
     ]
   },
   {
-    "lineName": "West Coast Main Line South",
-    "abbreviation": "WCML-S",
+    "lineName": "WCML South",
+    "abbreviation": "WCMLS",
     "lines": [
       {
         "name": "West Coast Main Line South",
@@ -127,12 +127,84 @@
   },
   {
     "lineName": "WCML Trent Valley Line",
-    "abbreviation": "WCML-TV",
+    "abbreviation": "WCMLTV",
     "lines": [
       {
         "name": "WCML Trent Valley Line",
         "color": "#08524b",
         "stations": ["RUG","NUN","ATH","PSW","TAM","LTV","RGL","STA"]
+      }
+    ]
+  },
+  {
+    "lineName": "Great Western Main Line",
+    "abbreviation": "GWML",
+    "lines": [
+      {
+        "name": "Great Western Main Line",
+        "color": "#08473c",
+        "stations": ["PAD","AML","EAL","WEA","HAN","STL","HAY","WDT","LNY","SLO","BNM","TAP","MAI","TWY","RDG","TLH","PAN","GOR","CHO","DID","SWI","CPM","BTH","KYN","BRI"]
+      }
+    ]
+  },
+  {
+    "lineName": "Bristol to Exeter Line",
+    "abbreviation": "BEXL",
+    "lines": [
+      {
+        "name": "Bristol to Exeter Line",
+        "color": "#08473c",
+        "stations": ["BRI","BMT","PSN","NLS","YAT","WOR","WSM","HIG","BWT","TAU","TVP","EXD"]
+      }
+    ]
+  },
+  {
+    "lineName": "Exeter to Plymouth Line",
+    "abbreviation": "EXPLYM",
+    "lines": [
+      {
+        "name": "Exeter to Plymouth Line",
+        "color": "#08473c",
+        "stations": ["EXD","EXT","SCS","DWW","DWL","TGM","NTA","TOT","IVY","PLY"]
+      }
+    ]
+  },
+  {
+    "lineName": "Cornish Main Line",
+    "abbreviation": "CORNWLL",
+    "lines": [
+      {
+        "name": "Cornish Main Line",
+        "color": "#08473c",
+        "stations": ["PLY","DPT","DOC","KEY","SBF","STS","SGM","MEN","LSK","BOD","LOS","PAR","SAU","TRU","RED","CBN","HYL","SER","PNZ"]
+      }
+    ]
+  },
+  {
+    "lineName": "South Wales Main Line",
+    "abbreviation": "SWSML",
+    "lines": [
+      {
+        "name": "South Wales Main Line",
+        "color": "#08473c",
+        "stations": ["SWI","BPW","PWY","PIL","STJ","NWP","CDF","LLR","PCD","BGN","PYL","PTA","BAJ","BNF","NTH","SKE","LAS","SWA"]
+      },
+      {
+        "name": "South Wales Main Line",
+        "color": "#08473c",
+        "stations": ["FIT","SRD","LWH","BRI"],
+        "branchFrom": "BPW"
+      }
+    ]
+  },
+  {
+    "lineName": "Huddersfield Line",
+    "abbreviation": "HUD",
+    "lines": [
+      {
+        "name": "Huddersfield Line",
+        "color": "#00a4eb",
+        "stations": ["LDS","COT","MLY","BTL","DEW","MIR","DHN","HUD","SWT","MSL","SYB","AHN","GUI","MCV"]
       }
     ]
   }

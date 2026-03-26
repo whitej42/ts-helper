@@ -14,7 +14,7 @@ const navLinks = [
     { to: '/',             label: 'Home' },
     { to: '/destinations', label: 'Destination Boards' },
     { to: '/headcodes',    label: 'Headcode Generator' },
-    { to: '/lines',        label: 'Routes' },
+    { to: '/routes',        label: 'Routes' },
     { to: '/guides',       label: 'Guides' },
     { to: '/about',        label: 'About' },
 ];
