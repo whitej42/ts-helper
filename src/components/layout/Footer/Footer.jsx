@@ -8,7 +8,7 @@ function Footer() {
             </div>
             <div className="w-full px-4 sm:px-12 py-4 flex flex-col sm:flex-row items-center gap-2">
                 <p className="flex-1 text-left font-rail font-bold tracking-rail uppercase text-xs text-white/40">
-                    Train Simulator Classic · Scenario Helper
+                    Train Simulator Classic · Scenario Tools
                 </p>
                 <p className="flex-1 text-center text-xs text-white/40">
                     All Rights Reserved © 2026

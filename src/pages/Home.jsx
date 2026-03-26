@@ -6,9 +6,9 @@ function Home() {
     return (
         <div className="flex flex-col">
             <Helmet>
-                <title>TSCHelper | Train Simulator Classic Scenario Helper</title>
-                <meta name="description" content="Destination codes, headcode generation, and live UK rail status. Everything you need to build authentic Train Simulator Classic scenarios." />
-                <link rel="canonical" href="https://tscscenario.co.uk/" />
+                <title>TSCTools | Train Simulator Classic Scenario Tools</title>
+                <meta name="description" content="Destination board codes, headcode generation, and live UK rail status. Everything you need to build authentic Train Simulator Classic scenarios." />
+                <link rel="canonical" href="https://tsctools.co.uk/" />
             </Helmet>
             {/* ── Hero ─────────────────────────────────────────────── */}
             <section className="bg-gray-900 dark:bg-gray-950">
@@ -19,18 +19,18 @@ function Home() {
                         </span>
                     </div>
                     <h1 className="font-rail font-bold text-white tracking-tight text-5xl sm:text-6xl leading-tight">
-                        Scenario Helper
+                        Scenario Tools
                     </h1>
                     <p className="text-white/50 text-lg max-w-lg leading-relaxed">
-                        Destination codes, headcode generation, and live network status.
+                        Destination boards, headcode generation, and live network status.
                         Everything you need to build authentic UK rail scenarios.
                     </p>
                     <div className="flex flex-wrap items-center justify-center gap-3 mb-3">
                         <Link
                             to="/destinations"
-                            className="inline-flex items-center justify-center font-rail font-bold tracking-rail uppercase text-sm bg-rail-amber text-rail-navy rounded-rail px-4 py-2 hover:bg-rail-amber-dark transition-colors"
+                            className="inline-flex items-center justify-center font-rail font-bold tracking-rail uppercase text-sm text-rail-amber border border-rail-amber rounded-rail px-4 py-2 hover:bg-rail-amber hover:text-rail-navy transition-colors"
                         >
-                            Destination Codes
+                            Destination Boards
                         </Link>
                         <Link
                             to="/headcodes"

@@ -72,14 +72,14 @@ function Destinations() {
     return (
         <div className="w-full max-w-7xl mx-auto px-6 py-10">
             <Helmet>
-                <title>Destination Codes | TSCHelper</title>
+                <title>Destination Boards | TSCTools</title>
                 <meta name="description" content="Browse destination board codes for all Train Simulator Classic locomotive classes. Filter by class, save favourites, and look up codes fast." />
-                <link rel="canonical" href="https://tscscenario.co.uk/destinations" />
+                <link rel="canonical" href="https://tsctools.co.uk/destinations" />
             </Helmet>
             {/* ── Page heading ─────────────────────────────────────── */}
             <div className="mb-10">
                 <h1 className="font-rail font-bold text-3xl sm:text-4xl tracking-tight text-rail-navy dark:text-white border-b-4 border-rail-red pb-2 inline-block">
-                    Destination Codes
+                    Destination Boards
                 </h1>
                 <p className="text-gray-500 dark:text-gray-400 text-base mt-3">
                     Select a class to view its destination board codes.
